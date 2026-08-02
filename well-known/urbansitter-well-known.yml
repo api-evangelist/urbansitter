@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+host: https://www.urbansitter.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 200
+  file: ../llms/urbansitter-llms.txt
+notes: No /.well-known/ discovery documents are published. The site does publish a
+  real /llms.txt (saved verbatim under llms/). blog.urbansitter.com also returns 404
+  for /.well-known/security.txt and /security.txt.

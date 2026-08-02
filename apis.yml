@@ -1,8 +1,25 @@
 aid: urbansitter
-name: Urbansitter
-description: Urbansitter is a company surfaced as a portfolio company of canaan-partners and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/urbansitter.png
+name: UrbanSitter
+description: UrbanSitter is an online marketplace that connects families with trusted
+  local caregivers, including babysitters, nannies, child care providers, daycares
+  and preschools, tutors, pet sitters, senior caregivers, and household help. Operated
+  by UrbanSitter, Inc., the platform lets parents browse caregiver profiles, read
+  reviews from other families, compare pay rates, and book and pay sitters, while
+  caregivers find and manage child care and home care jobs. UrbanSitter runs its platform on a private
+  Spring Boot API (Swagger UI is IP-safelisted) and does not publish a public developer
+  program.
 url: https://raw.githubusercontent.com/api-evangelist/urbansitter/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +29,57 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Childcare
+- Babysitting
+- Marketplace
+- Caregivers
+- Pet Care
+- Senior Care
+- Tutoring
 apis: []
+common:
+- type: DomainSecurity
+  url: security/urbansitter-domain-security.yml
+- name: Website
+  type: Website
+  url: https://www.urbansitter.com
+- name: Blog
+  type: Blog
+  url: https://blog.urbansitter.com/
+- name: Support
+  type: Support
+  url: https://support.urbansitter.com/
+- name: Pricing
+  type: Pricing
+  url: https://www.urbansitter.com/pricing
+- name: Sign Up
+  type: SignUp
+  url: https://www.urbansitter.com/signup
+- name: Login
+  type: Login
+  url: https://www.urbansitter.com/login
+- name: Terms of Service
+  type: TermsOfService
+  url: https://blog.urbansitter.com/terms-of-service/
+- name: Privacy Policy
+  type: PrivacyPolicy
+  url: https://blog.urbansitter.com/privacy-policy/
+- name: GitHub Organization
+  type: GitHubOrganization
+  url: https://github.com/UrbanSitter
+- name: llms.txt
+  type: LLMsTxt
+  url: llms/urbansitter-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

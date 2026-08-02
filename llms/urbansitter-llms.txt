@@ -1,0 +1,2083 @@
+﻿# UrbanSitter
+
+> UrbanSitter Childcare Blog | Resources for Parents, Babysitters, and Nannies
+
+---
+
+
+## Pages
+
+- [Caregiver Offer Terms (Code TT-901)](https://blog.urbansitter.com/memphis-offer/): Caregiver Signup Offer Terms Offer code: TT-901 | Effective date: June 15, 2026 Offer summary New caregivers who sign up...
+- [After School Care Options for Busy Families](https://blog.urbansitter.com/after-school-care/): After school care options for busy families Compare child care options: programs, babysitters, and after school nannies to find the...
+- [Tutoring Services | Find Private Tutors Near You | UrbanSitter](https://blog.urbansitter.com/tutoring-services/): Tutoring services Find experienced tutors near you for math, reading, writing, test prep, and more. Browse profiles, read parent reviews,...
+- [Daycare Programs for Every Age and Schedule | UrbanSitter](https://blog.urbansitter.com/daycares/): Find daycares for every age and schedule Explore daycare centers and home daycares, see open spots, compare pricing, book tours,...
+- [Child Care Blog](https://blog.urbansitter.com/): UrbanSitterChild Care Resources Information for families and caregivers Resource center for families Child care advice Resources for sitters Parent life...
+- [Babysitting Rate Calculator For Sitters | How Much To Charge](https://blog.urbansitter.com/babysitting-rate-calculator/): Babysitting rate calculator Find out how much to charge for babysitting This babysitting rate calculator tells you what the going...
+- [Babysitter Pay Calculator | Get Hourly Rates Based on Real Data](https://blog.urbansitter.com/babysitter-pay-calculator/): Babysitter pay calculator Find out how much to pay your babysitter Use this babysitter pay calculator to estimate a fair...
+- [Child Care Services | Daycares & Preschools | UrbanSitter](https://blog.urbansitter.com/child-care-services/): Child care services UrbanSitter connects you with licensed child care providers, centers, daycares, and preschools that fit your family’s needs...
+- [Household Services | Housekeepers & Household Managers | UrbanSitter](https://blog.urbansitter.com/household-services/): Household services Find trusted help for everything your home needs—from housekeeping and errands to home organization and house sitting. Find...
+- [Find Trusted Infant Care | Personalized Baby Care | UrbanSitter](https://blog.urbansitter.com/infant-care-services/): Infant care services Finding trusted, nurturing infant care is simpler than ever with UrbanSitter. From nannies to daycares, we have...
+- [Senior Care Services | Trusted In-Home Elder Care | UrbanSitter](https://blog.urbansitter.com/senior-care-services/): Senior care services Find compassionate in-home senior care for your loved ones—because you can’t always be there, but we can....
+- [Pet Sitting Services | Trusted Pet Sitters Near You | UrbanSitter](https://blog.urbansitter.com/pet-sitting-services/): Pet sitting services Your pets deserve the best care. UrbanSitter connects you with trusted, multi-skilled caregivers who provide exceptional pet...
+- [UrbanSitter Privacy Policy](https://blog.urbansitter.com/privacy-policy/): UrbanSitter Privacy Policy Last updated June 29,2026 UrbanSitter, Inc. (“UrbanSitter”, “we” or “us”) is committed to respecting the privacy of...
+- [UrbanSitter Terms of Service](https://blog.urbansitter.com/terms-of-service/): Last updated June 24, 2026 These Terms of Service govern your access to and use of the websites, platforms, mobile...
+- [Tips for Finding Last-Minute Childcare](https://blog.urbansitter.com/when-you-need-last-minute-childcare/): Finding last-minute child care can be a daunting task for busy parents. Whether your nanny calls in sick or you...
+- [In-Home Child Care Rates per Hour - How Much Should I Pay?](https://blog.urbansitter.com/in-home-child-care-rates-per-hour/): Choosing the proper in-home child care can be daunting, especially when balancing quality with cost. UrbanSitter compiles data yearly to...
+- [How to Become a Babysitter: The Essentials](https://blog.urbansitter.com/how-to-become-a-babysitter/): Are you looking to dive into the world of babysitting and wondering how to become an experienced babysitter? Whether you’re...
+- [The Best Babysitting Tips: Top Picks](https://blog.urbansitter.com/the-best-babysitting-tips/): Babysitting is a rewarding job, but it comes with its own set of challenges. Whether you’re new to babysitting or...
+- [Au Pair vs. Nanny vs. Daycare: Making the Right Choice](https://blog.urbansitter.com/choosing-between-a-nanny-daycare-or-au-pair/): You’re at the doorstep of parenthood or contemplating a change in your family’s childcare dynamics. It’s a pivotal moment, and...
+- [UrbanSitter Reviews From Families and Caregivers](https://blog.urbansitter.com/urbansitter-reviews/): At UrbanSitter, we’re all about trust and transparency. We really appreciate the authentic, real-deal, and considerate reviews that our fantastic...
+- [Guide to Pay Rates](https://blog.urbansitter.com/pay-rates/): Guide to Pay Rates Need to know how much to pay a babysitter, nanny, pet sitter, or family caregiver? Our...
+- [Finding the Best Pet Sitter Jobs](https://blog.urbansitter.com/finding-the-best-pet-sitter-jobs/): Finding the Best Pet Sitter Jobs Calling all animal lovers! We’re here to help connect you with a wide range...
+- [Find House Managers Near Me](https://blog.urbansitter.com/find-house-managers-near-me/): Find House Managers Near Me Explore UrbanSitter’s network of reliable professionals offering affordable, convenient, and reliable household management services. Simplify...
+- [How to Find House Keeping Jobs](https://blog.urbansitter.com/how-to-find-housekeeping-jobs/): How to find house keeping jobs On the lookout for house keeping jobs that align with your skills and preferences?...
+- [How to Find Dog Sitting Jobs Near Me](https://blog.urbansitter.com/how-to-find-dog-sitting-jobs-near-me/): How to Find Dog Sitting Jobs Near Me Looking for an exciting and rewarding job that lets you spend time...
+- [Finding the Right Home Care Jobs Near Me](https://blog.urbansitter.com/finding-the-right-home-care-jobs-near-me/): Finding the Right Home Care Jobs Near Me Are you searching for home care jobs near you? You’re in the...
+- [Childcare Jobs Near Me: What You Need to Know](https://blog.urbansitter.com/childcare-jobs-near-me/): Finding the Right Childcare Job Near Me Looking for a childcare job near you? Passionate about working with children? Let...
+- [Find caregiver jobs near me](https://blog.urbansitter.com/caregiver-jobs-near-me/): Caregiver jobs near me Searching for rewarding caregiver jobs near you? UrbanSitter connects compassionate caregivers like you with fulfilling jobs...
+- [Find child care near me](https://blog.urbansitter.com/child-care-near-me/): Find child care near me Welcome to UrbanSitter, your resource for reliable child care near you. Whether you need a...
+- [Find home care near me](https://blog.urbansitter.com/home-care-near-me/): Find home care near me It’s not always easy to find reliable home care near you. That’s why UrbanSitter is...
+- [Find tutoring near me](https://blog.urbansitter.com/tutoring-near-me/): Find tutoring near me Support your child in reaching their next academic milestone with a wide range of top-rated tutoring...
+- [Find pet sitters near me](https://blog.urbansitter.com/pet-sitters-near-me/): Find pet sitters near me Welcome to UrbanSitter, your go-to destination for finding reliable and caring pet sitters near you....
+- [Starting your UrbanSitter Profile - Tips for Caregivers](https://blog.urbansitter.com/starting-your-urbansitter-profile-tips-for-caregivers/): If you’re a babysitter, nanny or caregiver looking for jobs with kids, seniors, pets or for household services, you’re in...
+- [Press Release: Outschool and UrbanSitter Partner to Provide More Robust Tutoring Offering to Families](https://blog.urbansitter.com/press-release-outschool-and-urbansitter-partner/): Outschool’s 4,000+ Vetted Tutors Now Available to Book on the UrbanSitter Platform March 28, 2023 (SAN FRANCISCO) – UrbanSitter, an...
+- [Scout FAQs](https://blog.urbansitter.com/scout-faqs/): Q: What is the Scout Partnership? A: Scout is an UrbanSitter partner that provides reference checking as a service. We...
+- [Employer Resources | UrbanSitter Corporate Care benefit](https://blog.urbansitter.com/employer-resources/): UrbanSitterEmployer Resources Information and assets for Corporate Care Benefits partners Case Studies Reports & Infographics Program Guides Blog Case Studies...
+- [Elderly Care Jobs](https://blog.urbansitter.com/elderly-care-jobs/): UrbanSitter makes it easy to find elderly care jobs wherever you live. Are you experienced with providing support to seniors?...
+- [Pet Sitting Jobs](https://blog.urbansitter.com/pet-sitting-jobs/): For animal lovers, pet sitting jobs are much more fun than “work”... and you get paid for it! Who wouldn’t...
+- [Tutoring Jobs](https://blog.urbansitter.com/tutoring-jobs/): UrbanSitter makes it easy to find tutoring jobs wherever you live. Are you an experienced tutor with knowledge in many subjects or perhaps...
+- [The Anxiety of Hiring a Nanny: Tips for the Screening Process](https://blog.urbansitter.com/the-anxiety-of-hiring-a-nanny-tips-for-the-screening-process/): Check References After conducting a brief phone interview and determining that you are interested in exploring an individual’s credentials in...
+- [2018 Holiday Tipping Guide & New Year's Eve Babysitting Rates](https://blog.urbansitter.com/2018-holiday-tipping-new-years-eve-babysitting-rates/): We surveyed 3,000 families and caregivers across the U. S. to weigh in on holiday tipping etiquette for sitters & nannies,...
+- [2018 Valentine's Day Babysitting Rates](https://blog.urbansitter.com/valentines-day-babysitting-rates/): How much will you pay for a Valentine’s Day sitter? According to babysitting site, UrbanSitter, here are the hourly rates...
+- [Press Release - UrbanSitter Secures $17 Million in Series C Funding Led by AVP](https://blog.urbansitter.com/press-release-urbansitter-secures-17-million-in-series-c-funding-led-by-avp/): Institutional investors joined by power users in latest round San Francisco, Oct. 6, 2017 – UrbanSitter, an online and mobile...
+- [When you need back-up child care](https://blog.urbansitter.com/when-you-need-back-up-child-care/): It’s hard to predict when you’ll need back-up childcare. Let’s say the nanny calls in sick or your child can’t...
+- [2016 Childcare Rate Survey: Babysitter & Nanny Pay, Vacation Sitters](https://blog.urbansitter.com/2016-childcare-rate-survey-babysitter-nanny-pay-vacation-sitters-2/): .
+- [2016 Childcare Rate Survey: Babysitter & Nanny Pay, Valentine's Day, Vacation Sitters](https://blog.urbansitter.com/2016-childcare-rate-survey/): What does your babysitter charge? UrbanSitter surveyed and compiled data from nearly 800 families across the nation to determine the average hourly...
+- [2016 Childcare Rate Survey: Babysitter & Nanny Pay, Valentine’s Day, Vacation Sitters](https://blog.urbansitter.com/2016-childcare-rate-survey-babysitter-nanny-pay-valentines-day-vacation-sitters/): This content is password protected. To view it please enter your password below: Password:
+- [2015 Back to School Stats Infographic: Spending Habits, Classroom Etiquette, Screen Time](https://blog.urbansitter.com/2015-back-to-school-stats-infographic-spending-habits-classroom-etiquette-screen-time/): What hot topics are parents talking about this school year? From budgets to bedtimes, after school sitters to screen time,...
+- [2015 National Childcare Survey: Babysitting Rates & Nanny Pay + Mother's Day](https://blog.urbansitter.com/4th-annual-national-childcare-rate-survey-babysitting-rates-nanny-rates/): How much do you pay your babysitter? UrbanSitter surveyed and compiled data from more than 10,000 families across the nation...
+- [Transitioning Your Baby to a Nanny - 6 Essential Tips](https://blog.urbansitter.com/transitioning-baby-to-nanny/): Whether you’ve been home on maternity leave for a few weeks or a few months, whether your baby is going...
+- [Child Care Resources for Parents](https://blog.urbansitter.com/child-care-resources-for-parents/): These child care resources for parents help parents navigate the often intimidating process of selecting, interviewing, hiring, and maintaining great...
+- [Babysitter Report Form (printable)](https://blog.urbansitter.com/babysitter-report-form-printable/): Parents can download and print out a copy of this fun babysitter report to have sitters fill out how the...
+- [A Complete List of Caregiver Interview Questions](https://blog.urbansitter.com/complete-list-of-babysitting-interview-questions/): It has been said that finding a great caregiver is as much intuition as it is qualification, but you should...
+- [Preparing Kids For a New Caregiver](https://blog.urbansitter.com/preparing-kids-for-a-new-caregiver/): Congrats! You’ve hired a new babysitter. She’s amazing on paper and even better in person. You feel like you’ve won...
+- [2014 National Childcare Survey: Babysitting Rates & Nanny Pay](https://blog.urbansitter.com/3rd-annual-national-childcare-rate-survey-babysitting-rates-nanny-rates/): Wondering how much to pay your babysitter? UrbanSitter surveyed and compiled data from 7,500 families across the US to calculate...
+- [Conducting Reference Checks](https://blog.urbansitter.com/conducting-reference-checks/): By Melinda Holzschuh, UrbanSitter. com contributing writer Though it is tempting to think of reference checks as a formality, this...
+- [Which Babysitter is Right for My Family?](https://blog.urbansitter.com/which-babysitter-is-right-for-my-family/): By Melinda Holzschuh, UrbanSitter. com contributing writer Different families have different needs in terms of childcare. Once you decide what...
+- [How to Evaluate and Monitor Your Babysitter or Nanny](https://blog.urbansitter.com/how-to-evaluate-and-monitor-your-babysitter-or-nanny/): By Melinda Holzschuh, UrbanSitter. com contributing writer You’ve done your research — talked to parent friends, combed through the profiles...
+- [Vetting A Caregiver](https://blog.urbansitter.com/vetting-a-caregiver/): By Melinda Holzschuh, UrbanSitter. com contributing writer Hiring a babysitter or nanny comes with an unavoidable, inherent element of blind...
+- [2nd Annual Holiday Gifting Survey: Babysitter Gifts and Nanny Bonuses for 2013](https://blog.urbansitter.com/second-annual-holiday-gifting-survey-babysitter-gifts-nanny-bonuses/): Around the holidays, parents often wonder “how much should I bonus my nanny for Christmas? ” or “should I tip...
+- [6 Factors to Consider When Looking for Nanny Jobs](https://blog.urbansitter.com/factors-to-consider-when-looking-for-nanny-jobs/): Whether you are an experienced childcare provider or someone hoping to land a first-time nanny position, it’s important to take...
+- [Parent’s Guide to Taxes: Understanding Childcare Tax Credits and the Nanny Tax](https://blog.urbansitter.com/child-care-resources-for-parents/parents-guide-to-taxes/): Few would dispute that tax talk is confusing, ever changing and often intimidating. Provided below are guidelines and tips to...
+- [Professional Development Resources for Childcare Workers](https://blog.urbansitter.com/professional-development-resources-for-childcare-workers/): Contributed by Jennifer Kuhn, MPS, Executive Editor of Nanny Magazine “Why should society feel responsible only for the education of...
+- [Preparing for your First Babysitter](https://blog.urbansitter.com/preparing-for-your-first-babysitter/): Parenthood can be very overwhelming in the first few months. And going out without the baby can seem like the...
+- [How to Find Sick Day Childcare](https://blog.urbansitter.com/how-to-find-sick-day-childcare/): A sick child is never fun — for anyone. But when you’re a working parent, a sick child can pose...
+- [How to Respond When a Child Misbehaves](https://blog.urbansitter.com/how-to-respond-when-a-child-misbehaves/): One of the biggest challenges in knowing how to babysit kids and doing it well is to know how to...
+- [Making the Most of Maternity Leave](https://blog.urbansitter.com/making-the-most-of-maternity-leave/): Maternity leave can be an exciting and blissful time — those first few months with your new baby are precious....
+- [When Your Babysitter is Responsible for Driving Your Kids](https://blog.urbansitter.com/when-your-babysitter-is-responsible-for-driving-your-kids/): When your babysitter is responsible for driving your kids, child safety should be your their number one priority. Here we...
+- [Babysitting Children with Special Needs](https://blog.urbansitter.com/babysitting-children-with-special-needs/): The key to babysitting a child with special needs is to have knowledge and a better understanding of his disorder...
+- [Preparing Your Babysitter for an Emergency](https://blog.urbansitter.com/preparing-your-babysitter-for-an-emergency/): In your rush to get out the door, it’s not always easy to remember whether or not you’ve left your...
+- [Budgeting for a Babysitter or Nanny](https://blog.urbansitter.com/budgeting-for-a-babysitter-or-nanny-explained/): Budgeting for a babysitter or nanny shouldn’t be stressful. This handy resource will help you create a simple family budget...
+- [Tips for Babysitters: Advanced Questions About UrbanSitter](https://blog.urbansitter.com/tips-for-babysitters-advanced-questions-about-urbansitter/): Once you’ve booked a few babysitting jobs through UrbanSitter, you might have more advanced questions about using the website. Here...
+- [Babysitter Activities and Daycare Games](https://blog.urbansitter.com/babysitter-activities-and-daycare-games/): Wondering what to do when babysitting? Here are some suggestions for babysitter activities and games for infants, toddlers and preschoolers,...
+- [Babysitting Children with Food Allergies and Intolerances](https://blog.urbansitter.com/babysitting-children-with-food-allergies-and-intolerances/): Knowledge and know-how is critical when babysitting babies and children with food allergies and intolerances. We’ll provide you with some...
+- [Bringing the Babysitter or Nanny into the Family](https://blog.urbansitter.com/bringing-babysitter-nanny-into-family/): Your family nanny or full-time babysitter plays a fundamental role in the development of your children. It only makes sense...
+- [Babysitting Guide](https://blog.urbansitter.com/babysitting-guide/): The UrbanSitter Babysitting Guide is full of valuable information for babysitters and nannies. Becoming a Babysitter Understanding Babysitter Credentials and...
+- [2nd Annual Holiday Gifting & Tipping Survey: Nanny Gift Ideas](https://blog.urbansitter.com/2nd-annual-national-childcare-rate-survey-nanny-gift-ideas/): Each year, during the holidays, we survey parents nationwide to get the scoop on holiday tipping, nanny bonuses, the best...
+- [What Parents and Babysitters Really Think - Infographic by UrbanSitter.com](https://blog.urbansitter.com/infographic-babysitting-behavior/): Ever wonder if you’re alone in wishing the sitter would clean up after herself and the kids before you get...
+- [Babysitting by the Numbers - Infographic by UrbanSitter.com](https://blog.urbansitter.com/babysitting-by-the-numbers-infographic-by-urbansitter-com/): On average, New Yorkers pay babysitters up to $17 an hour for watching two children. Ever wonder where your family...
+
+---
+
+
+## Posts
+
+- [4 Easy Summer Crafts for Kids](https://blog.urbansitter.com/summer-crafts-for-kids/): When it’s too hot to play outside, bring the kids to the table for some fun, attention-grabbing summer crafts that...
+- [5 Popular Child Care Options for Summer](https://blog.urbansitter.com/5-popular-child-care-options-for-summer/): Trying to figure out your child care options for summer? Maybe you’re wondering how to plan child care around a...
+- [Summer Essentials for Babies](https://blog.urbansitter.com/summer-essentials-for-babies/): Is your baby as ready for summer as you are? Before you take the newest member of your family outside...
+- [Tips for Lining Up College Students for Summer Childcare](https://blog.urbansitter.com/tips-for-lining-up-college-students-for-summer-childcare/): In a few short weeks or days, school will be out for the summer and you likely have different summer...
+- [5 Easy Ways to Celebrate Preschool or Kindergarten Graduation (That Feel Like a Big Deal)](https://blog.urbansitter.com/5-ways-to-celebrate-preschool-or-kindergarten-graduation/): Your little one worked hard all year: learning letters, making friends, and figuring out how to share (mostly). A preschool...
+- [After School Babysitter Guide for Parents](https://blog.urbansitter.com/after-school-babysitter-guide-for-parents/): School lets out at 3:00 pm. Your workday doesn’t. For many families, the hours between school pickup and dinner are...
+- [Get Busy with Spring Break Crafts for Kids](https://blog.urbansitter.com/get-busy-with-spring-crafts-for-kids/): The kids are home for Spring Break, and chances are you could use a few craft ideas for entertaining them....
+- [10 Easy Spring Break Staycation Ideas for Busy Families](https://blog.urbansitter.com/10-fun-family-activities-for-a-spring-break-staycation/): Spring break is coming. And if you’re staying home this year, you’re not alone. With travel costs up and schedules...
+- [7 Reasons to Book a Babysitter This Spring](https://blog.urbansitter.com/7-reasons-to-book-a-babysitter-this-spring/): Why is spring is a great time to book a babysitter? Read on to find out: 1. Spring cleaning. Think...
+- [Get Crafty with Spring Crafts for Preschoolers](https://blog.urbansitter.com/spring-crafts-for-preschoolers/): Dare we say it for fear of jinxing ourselves? Spring is almost here! Despite the cold weather most of the...
+- [How much should I charge for babysitting or nannying?](https://blog.urbansitter.com/how-much-should-i-charge-for-babysitting/): Last updated: March 2026 Whether you’re a first-time babysitter or an experienced caregiver, knowing how much to charge for babysitting...
+- [How much do babysitters charge in 2026? Average rates by city](https://blog.urbansitter.com/babysitting-rates/) → [Markdown](https://blog.urbansitter.com/wp-content/uploads/llms_md/2026-US-Babysitting-Rates-by-US-City-Structured-Data-1.md): Babysitting rates can vary a lot from city to city, so for the past 15 years UrbanSitter has tracked child...
+- [How Much Does a Nanny Cost? (2026)](https://blog.urbansitter.com/how-much-does-a-nanny-cost/): Considering various child care options is a natural part of parenting, and if you’ve already narrowed down your choices and...
+- [What should I look for in a babysitter?](https://blog.urbansitter.com/what-should-i-look-for-in-a-babysitter/): Finding and hiring the right babysitter can be unnerving for parents. While we’d all like to leave our kids in...
+- [7 Tips For Hiring An After School Nanny](https://blog.urbansitter.com/7-tips-for-hiring-an-after-school-nanny/): Hiring an after school nanny is a big decision, and it usually lands in the busiest part of your year....
+- [How Much Does an After School Nanny Cost? (2026)](https://blog.urbansitter.com/after-school-child-care-cost/): For many families, the hardest part of the school day starts at 3 p. m. Here is what an after-school...
+- [Valentine's Day Crafts for Kids](https://blog.urbansitter.com/valentines-day-crafts-for-kids/): How about arming your babysitter with Valentine’s Day craft ideas and supplies for your kids to create special treats for...
+- [5 Tips for Finding a Babysitter for Valentine’s Day](https://blog.urbansitter.com/5-tips-for-finding-a-babysitter-for-valentines-day/): Valentine’s Day is still a few weeks away, but if you hope to land a babysitter so you can celebrate...
+- [12 Ways to Celebrate Valentine's Day for Kids](https://blog.urbansitter.com/12-ways-to-celebrate-valentines-day-with-your-kids/): Not sure how to create a special Valentine’s Day for kids? Holidays offer ideal opportunities to create traditions your kids...
+- [2025 New Year’s Eve Babysitting Rates and Booking Tips](https://blog.urbansitter.com/new-years-eve-babysitting-rates/): As we count down to 2026, many parents are looking forward to a well-earned night out, whether it’s a big...
+- [2025 Holiday Tipping Guide for Babysitters, Nannies & Caregivers](https://blog.urbansitter.com/holiday-tipping-guide/) → [Markdown](https://blog.urbansitter.com/wp-content/uploads/llms_md/2025-UrbanSitter-Holiday-Tipping-Guide-Structured-Data-with-Appendix-B-2.md): As we enter the festive season, UrbanSitter is back with the latest insights into holiday tipping trends for care providers...
+- [7 Fall Crafts for Preschoolers](https://blog.urbansitter.com/fall-crafts-for-preschoolers/): Celebrate fall by making these 7 fall crafts for preschoolers! With kids going back to school and Halloween coming up,...
+- [5 Reasons to Make Music with Your Family This Holiday Season](https://blog.urbansitter.com/5-reasons-to-make-music-with-your-family-this-holiday-season/): At this time of year, music often plays a bigger role in many people’s lives than it does at other...
+- [4 Fun Holiday Projects that Make Great Gifts from Kids](https://blog.urbansitter.com/4-fun-holiday-projects-that-make-great-gifts-from-kids/): Hopefully you’ve taken advantage of UrbanSitter to score a sitter or two so you can get out to enjoy a...
+- [How to "Fall Back" Without Wrecking Your Kid's Sleep Schedule](https://blog.urbansitter.com/how-to-fall-back-without-wrecking-your-kids-sleep-schedule/): The main thing to remember, according to Nicole Johnson, a pediatric sleep consultant, is that your child’s internal clock won’t...
+- [20 Engaging Math Activities for Preschoolers For Every Season](https://blog.urbansitter.com/math-activities-for-preschoolers/): Math skills are fundamental for a child’s cognitive development, especially for preschoolers. Learning basic mathematical concepts such as counting, number...
+- [5 Helpful Tips to Get an After School Care Sitter and Rates](https://blog.urbansitter.com/5-helpful-tips-to-get-an-after-school-care-sitter-and-rates/): Finding after school care and the perfect after-school babysitter is more than a matter of luck. We surveyed 500 sitters...
+- [7 Back to School Traditions to Ease First-Day Jitters](https://blog.urbansitter.com/7-back-to-school-traditions-to-ease-first-day-jitters/): As the school year approaches, excitement and anxiety can overwhelm parents and children. To help ease the back-to-school scaries and...
+- [Before and After School Child Care: 6 Practical Solutions](https://blog.urbansitter.com/before-and-after-school-child-care/): The new school year is around the corner which means it’s time to nail down your before and after school...
+- [Back-to-School Child Care Guide for Parents](https://blog.urbansitter.com/back-to-school-child-care-guide/): A planning guide for the school year: when to start your child care search, how to compare options, and how...
+- [How Much To Pay a House Sitter: Average Rates (2026)](https://blog.urbansitter.com/how-much-to-pay-a-house-sitter/): Deciding how much to pay a house sitter while you’re traveling? In this guide, we’ll explore house sitting prices, going...
+- [Introducing Daycares & Preschools—Now on UrbanSitter!](https://blog.urbansitter.com/introducing-daycares-preschools-on-urbansitter/): Big news! UrbanSitter is growing to serve families even better. We’re excited to announce that Kinside, the most comprehensive platform...
+- [Summer Boredom Busters:  5 Fun Activities For Your Sitter and Child To Do Together](https://blog.urbansitter.com/summer-boredom-busters-5-fun-activities-for-your-sitter-and-child-to-do-together/): Looking for some fun summer babysitting activities to keep the kids entertained? Look no further – we’ve found 5 fun...
+- [Cool Summer Activities for Preschoolers on Hot Summer Days](https://blog.urbansitter.com/cool-ideas-for-keeping-preschoolers-busy-on-hot-summer-days-in-progress/): Summer is chock full of opportunities for entertaining and enriching little kids’ development through new experiences and activities. Need some...
+- [What Is a Nanny Agency?](https://blog.urbansitter.com/what-is-a-nanny-agency/): Finding dependable child care can be a challenge for many families. A nanny agency offers one solution of matching parents...
+- [15 Questions to Ask a Nanny Agency](https://blog.urbansitter.com/15-questions-to-ask-a-nanny-agency/): Finding the right nanny agency can feel overwhelming, mainly when you’re focused on finding the perfect nanny to match your...
+- [Child Care EIN Number Lookup: A Step-by-Step Guide](https://blog.urbansitter.com/child-care-ein-number-lookup-a-step-by-step-guide/): When tax season rolls around, many parents scramble to do a child care EIN number lookup to report their daycare...
+- [Do babysitters have to pay taxes in 2026?](https://blog.urbansitter.com/do-babysitters-have-to-pay-taxes/): Do babysitters have to pay taxes on earnings from UrbanSitter jobs or other child care jobs? According to the IRS,...
+- [Supporting LA Families Affected by Wildfires](https://blog.urbansitter.com/la-wildfire-support/): The recent wildfires in Los Angeles have devastated families and communities. To help, UrbanSitter is offering 1 month of free...
+- [Is Daycare Tax Deductible? Saving on Child Care Costs](https://blog.urbansitter.com/is-daycare-tax-deductible-saving-on-child-care-costs/): Child care is one of the biggest expenses families face, so it’s no wonder many parents ask, is daycare tax...
+- [Babysitting Rates - 2025 Average Rates by US City](https://blog.urbansitter.com/2025-babysitting-rates-childcare-costs-study/) → [Markdown](https://blog.urbansitter.com/wp-content/uploads/llms_md/2025-US-Babysitting-Rates-by-US-City-Structured-Data.md): Curious about the latest in babysitting rates? Look no further! In our 14th year of tracking child care cost trends,...
+- [40 Funny Valentine's Day Jokes for Kids](https://blog.urbansitter.com/40-funny-valentines-day-jokes-for-kids/): Spark joy and giggles with Valentine’s Day jokes for kids. It’s cold out and we’re ready for a little fun....
+- [5 Fun Winter Crafts for Kids](https://blog.urbansitter.com/5-fun-winter-crafts-for-kids/): With kids spending a lot more time indoors during the dreary winter months, be sure to arm yourself and your...
+- [Cost of Hiring Through a Nanny Agency: What to Expect](https://blog.urbansitter.com/cost-of-hiring-through-a-nanny-agency/): Hiring through a nanny agency can be a great option when you’re looking for reliable childcare. These agencies relieve the...
+- [The Best Christmas Crafts for Kids: Top 5 Picks](https://blog.urbansitter.com/the-best-christmas-crafts-for-kids-top-5-picks/): There’s no better way to add a sprinkle of festive joy to your home than with Christmas crafts for kids....
+- [Fun Craft Trio for Winter](https://blog.urbansitter.com/fun-craft-trio-winter/): Looking for a creative way to keep the kids entertained on a rainy or snowy winter day? We’ve found a...
+- [7 Holiday Sleep Tips For Your Babies & Toddlers](https://blog.urbansitter.com/7-holiday-sleep-tips-for-your-babies-toddlers/): The holidays are fast approaching, and if you’re like most people out there, your calendar is already filling up with...
+- [The Ultimate Guide to Daycares for Parents](https://blog.urbansitter.com/ultimate-guide-to-daycares/): Discover everything parents need to know about finding, hiring, and managing a babysitter with our comprehensive guide.
+- [5 Strategies for Prying Away the Halloween Candy](https://blog.urbansitter.com/5-strategies-prying-away-halloween-candy/): For children, Halloween is almost too good to be true. They simply show up at a neighbor’s door, dressed as...
+- [Essential Daycare Interview Questions and Tips](https://blog.urbansitter.com/daycare-interview-questions-and-tips/): Finding the right daycare can be daunting, especially when considering the best fit for your child’s unique needs and your...
+- [8 Mindful Trick-or-Treating Reminders](https://blog.urbansitter.com/halloween-safety-tips/): Halloween is an exciting holiday and especially fun for kids. If you’re having a trusted sitter celebrate the holiday with...
+- [Crafty Kids: 3D Origami Spider for Halloween!](https://blog.urbansitter.com/crafty-kids-3d-origami-spider-for-halloween/): By Stephanie Martyn Spiders don’t always have to be creepy! This sweet-looking barnyard arachnid will get lots of friendly pats...
+- [Is Preschool the Same as Daycare?](https://blog.urbansitter.com/is-preschool-the-same-as-daycare/): When it comes to your child’s early education and care, you might wonder, is preschool the same as daycare? This...
+- [What are my daycare options?](https://blog.urbansitter.com/what-are-my-daycare-options/): Finding the right daycare for your child is a big decision, and with so many childcare options available, it can...
+- [Nanny vs. Daycare for Infants](https://blog.urbansitter.com/nanny-vs-daycare-for-infants/): Choosing child care for your little one is a big decision, and if you’re torn between a nanny vs. daycare...
+- [Day Care Centers or In-Home Family Day Care?](https://blog.urbansitter.com/day-care-centers-or-in-home-family-day-care/): Starting the daycare search for your child can feel overwhelming, especially with so many options to consider. Two popular choices...
+- [Daycare Ratios by State: What You Need to Know](https://blog.urbansitter.com/daycare-ratios-by-state-what-you-need-to-know/): Choosing the right daycare for your child is a big decision. One of the key factors to consider is the...
+- [15 Daycare Essentials for Your Baby](https://blog.urbansitter.com/15-daycare-essentials-for-your-baby/): When it’s time for your baby’s first day at daycare, it can feel like a huge step. To make the...
+- [What Are the Worst and Best Ages to Start Daycare?](https://blog.urbansitter.com/what-are-the-worst-and-best-ages-to-start-daycare/): As a parent, deciding the right age for daycare can be overwhelming. Whether you’re returning to work or exploring childcare...
+- [Day Care or Daycare: What Is the Correct Spelling?](https://blog.urbansitter.com/day-care-or-daycare-what-is-the-correct-spelling/): Parents researching child care options often wonder, is it “day care” or “daycare”? Both spellings are widely used, but in...
+- [4 Fun Ideas to Celebrate Grandparents Day](https://blog.urbansitter.com/4-fun-ideas-to-celebrate-grandparents-day/): We all have stories about the wonderful ways our own Nana and Papa (or someone else’s) have touched our lives....
+- [Acing Back-to-School Night this Year](https://blog.urbansitter.com/acing-back-to-school-night/): It’s the start of the school year, which means it’s time for Back-To-School Night, open houses, Curriculum Nights, and Meet...
+- [How to Write a Babysitter Reference Letter](https://blog.urbansitter.com/how-to-write-a-babysitter-reference-letter/): When a babysitter has positively impacted your family, writing a reference letter can be a great way to show your...
+- [Choosing the Right Dog Sitter: Key Qualities](https://blog.urbansitter.com/choosing-the-right-dog-sitter-key-qualities/): As a pet parent, ensuring your pup is in good hands when you’re away is crucial for your peace of...
+- [Should Cell Phones Be Allowed in School? Pros and Cons](https://blog.urbansitter.com/should-cell-phones-be-allowed-in-school-the-pros-and-cons/): In today’s digital age, cell phones have become an integral part of our lives, especially for the younger generation. This...
+- [How To Get Jobs on UrbanSitter](https://blog.urbansitter.com/how-to-get-jobs-on-urbansitter/): Learn how to get jobs on UrbanSitter, including landing your first job, how UrbanSitter works, and maximizing your earning potential....
+- [Nanny Contract Template and Guide](https://blog.urbansitter.com/nanny-contract-template-and-guide/): Hiring a nanny is a significant step for any family, and having a clear, comprehensive nanny contract is essential. Not...
+- [15 Hilarious First Day of School Memes](https://blog.urbansitter.com/15-hilarious-first-day-of-school-memes/): The first day of school is an exciting (and stressful) time! A good laugh is just what you need right...
+- [6 Ways to Help Your Child Adjust to Preschool](https://blog.urbansitter.com/ways-to-help-your-child-adjust-to-preschool/): How can you help when your child is having trouble adjusting to preschool? Here are 6 tips to ease separation...
+- [Nanny vs Babysitter - The Pros and Cons](https://blog.urbansitter.com/nanny-vs-babysitter-pros-and-cons/): With so many options for child care these days, how you decide which option to go with? Let’s weigh the...
+- [Top 20 Questions to Ask a Babysitter in an Interview](https://blog.urbansitter.com/questions-to-ask-a-babysitter-in-an-interview/): Whether you’re hiring a sitter for a Saturday night or a nanny for years to come, some key interview questions...
+- [What is a nanny?](https://blog.urbansitter.com/what-is-a-nanny/): What is a nanny? What does a nanny do? What are nanny responsibilities? Ask any parent and the answers can...
+- [The Ultimate Babysitter Guide for Parents](https://blog.urbansitter.com/the-ultimate-babysitter-guide-for-parents/): Discover everything parents need to know about finding, hiring, and managing a babysitter with our comprehensive guide.
+- [The Ultimate Guide to Dog Sitting Apps](https://blog.urbansitter.com/the-ultimate-guide-to-dog-sitting-apps/): Looking for a reliable dog-sitting app to help you find the perfect pet sitter or land a great dog-sitting job?...
+- [What Are the Best Babysitting Apps?](https://blog.urbansitter.com/what-are-the-best-babysitting-apps/): In today’s digital age, there’s an app for practically everything, including making babysitting more manageable and efficient. Whether you’re an...
+- [How to Write an Impressive Babysitter Resume](https://blog.urbansitter.com/how-to-write-an-impressive-babysitter-resume/): Crafting a standout babysitting resume is essential whether you’re a seasoned childcare professional or just starting out. Your resume is...
+- [Babysitting Classes Near Me](https://blog.urbansitter.com/babysitting-classes-near-me/): Are you looking to kickstart your babysitting career or improve your child care skills? Enrolling in babysitting classes, from basic...
+- [Enginehire and SitterPro: Shaping the Future Together with UrbanSitter](https://blog.urbansitter.com/enginehire-and-sitterpro-shaping-the-future-together-with-urbansitter/): Big news for our community! Sitter Pro is joining forces with Enginehire, and together, we’re embarking on an exciting journey...
+- [What is the Definition of a Sitter?](https://blog.urbansitter.com/what-is-the-definition-of-a-sitter/): Searching for another word for a babysitter? When it comes to the world of child care, the term “babysitter” has...
+- [5 Nanny Apps and Services You Should Know About](https://blog.urbansitter.com/nanny-apps-and-services-you-should-know-about/): Finding a nanny doesn't have to be overwhelming. This comprehensive guide will walk you through how to find a nanny,...
+- [How to Choose the Best Nanny Cam - Top Picks for 2024](https://blog.urbansitter.com/how-to-choose-best-nanny-cam/): Choosing the best nanny cam for your family can be a daunting task with the wide variety of options available...
+- [7 Babysitter Personality Types, According to the Movies](https://blog.urbansitter.com/7-babysitter-personality-types-according-to-the-movies/): Let’s explore seven quintessential babysitter personality types as depicted in beloved family movies. From the classic The Babysitters Club movie...
+- [Where to Find a Part-Time Nanny: Top 5 Tips](https://blog.urbansitter.com/where-to-find-a-part-time-nanny-top-5-tips/): Explore top tips on where to find a part-time nanny, ensuring the best child care solution for busy parents. Discover...
+- [Live-in Nanny Costs: A Breakdown of Every Expense](https://blog.urbansitter.com/live-in-nanny-cost-breakdown/): It can be a convenient solution for busy families, but really how much does a live-in nanny cost? With the...
+- [Nanny Cam: The Pros and Cons of Using One](https://blog.urbansitter.com/nanny-cam-the-pros-and-cons-of-using-one/): The use of nanny cams, personal surveillance cameras that are either hidden or installed in plain sight to record a...
+- [How to Find a Nanny: A Step-by-Step Guide](https://blog.urbansitter.com/how-to-find-a-nanny-guide/): Finding a nanny doesn't have to be overwhelming. This comprehensive guide will walk you through how to find a nanny,...
+- [The Ultimate Nanny Guide for Parents](https://blog.urbansitter.com/ultimate-nanny-guide/): Explore our guide for essential tips on finding, hiring, and managing a nanny. Learn about different types of nannies, costs,...
+- [Is a Babysitter Agency Right for You?](https://blog.urbansitter.com/is-a-babysitter-agency-right-for-you/): Are you a parent in need of reliable child care? Or perhaps you’re a seasoned babysitter looking for more opportunities?...
+- [Overnight Babysitter Rates and Tips](https://blog.urbansitter.com/overnight-babysitter-rates-and-tips/): Choosing an overnight babysitter involves more than just finding someone available for the job—it’s about ensuring both peace of mind...
+- [Babysitting Rates - 2024 Average Rates by US City](https://blog.urbansitter.com/babysitting-rates-2024-average-rates-by-us-city/) → [Markdown](https://blog.urbansitter.com/wp-content/uploads/llms_md/2025-US-Babysitting-Rates-by-US-City-Structured-Data.md): Curious about the latest in babysitting rates? In our 13th Annual UrbanSitter National Rates Study, we analyzed data from more...
+- [How to Write a Winning Nanny Resume](https://blog.urbansitter.com/how-to-write-a-nanny-resume/): Embarking on your journey as a nanny requires more than just a love for children and a nurturing disposition. In...
+- [Live-in Nanny Jobs: What You Need to Know](https://blog.urbansitter.com/live-in-nanny-jobs-what-you-need-to-know/): If you’re looking for live-in nanny jobs near you, you’re in the right place! In this guide, we’ll explore everything...
+- [Babysitting Age Requirements: What You Need to Know](https://blog.urbansitter.com/babysitting-age-requirements-what-you-need-to-know/): Whether your child is eager to explore babysitting jobs for teenagers or you’re assessing the qualifications of a potential babysitter,...
+- [How to Become a Nanny: A Step-by-Step Guide](https://blog.urbansitter.com/how-to-become-a-nanny/): If you’re considering a career as a nanny, you’ve come to the right place. Understanding the job requirements, expectations, and...
+- [2023 New Year's Eve Babysitting Rates & Tips](https://blog.urbansitter.com/2023-new-years-eve-babysitting-rates/): As we approach the countdown to the new year, parents are gearing up for a night of celebration. Whether you’re...
+- [How Much You Should Pay a Babysitter in NYC](https://blog.urbansitter.com/how-much-you-should-pay-a-babysitter-in-nyc/): Finding the right babysitter is essential for parents in New York City, but determining how much to pay can be...
+- [Babysitting Gift Cards: The Best Holiday Gift](https://blog.urbansitter.com/babysitting-gift-cards-holiday-gifts/): As the holidays approach, simplify your search for the “perfect” gift. Every parent will appreciate the gift of babysitting, especially...
+- [How to Book a Babysitter Using an App](https://blog.urbansitter.com/how-to-book-a-babysitter-using-an-app/): Scheduling in-home childcare has never been easier. Thanks to babysitter apps and websites, it’s easier to identify qualified babysitters and...
+- [10 Fun Babysitting Games To Play On The Job](https://blog.urbansitter.com/babysitting-games-to-play-on-the-job/): Finding the right activities to keep children entertained while babysitting can be challenging, but it doesn’t have to be. Engaging...
+- [How to Use AI to Write an Effective Babysitter Bio](https://blog.urbansitter.com/how-to-use-ai-to-write-an-effective-babysitter-bio/): Artificial intelligence (AI) is shaking things up in many fields, including babysitting. One of the coolest ways AI can help...
+- [‍‍50 Hilarious Kids Jokes About School](https://blog.urbansitter.com/50-hilarious-kids-jokes-about-school/): School can sometimes be a serious place with all the learning and studying, but that doesn’t mean we can’t have...
+- [Is UrbanSitter Reliable? Here's The Scoop](https://blog.urbansitter.com/is-urbansitter-reliable/): When it comes to choosing the best care option, whether for your child or any other type of care, trust...
+- [A Closer Look at Care.com vs. UrbanSitter](https://blog.urbansitter.com/care-com-vs-urbansitter/): Are you torn between Care. com vs. UrbanSitter in your quest to find the best caregiver? Let’s delve into the...
+- [Does UrbanSitter Cost Money? What you need to know](https://blog.urbansitter.com/does-urbansitter-cost-money/): If you’ve ever pondered questions like “Does UrbanSitter cost money? ” or “Is UrbanSitter free? ” you’ve come to the...
+- [How Much Should You Pay a Cat Sitter for a Week?](https://blog.urbansitter.com/how-much-should-you-pay-a-cat-sitter-for-a-week/): Are you planning a getaway and wondering how much to pay a cat sitter for a week? We’ve got you...
+- [A Comprehensive Guide to Receiving Blankets](https://blog.urbansitter.com/comprehensive-guide-to-receiving-blankets/): Ever wondered what the fuss is about receiving blankets? As a new parent, the world of baby items can be...
+- [How to Find Dog Walking Jobs](https://blog.urbansitter.com/how-to-find-dog-walking-jobs/): If you’re an animal lover and enjoy spending time with dogs, then dog walking may be the perfect job for...
+- [Why you should trust UrbanSitter (Is it legit?)](https://blog.urbansitter.com/why-you-should-trust-urbansitter/): At UrbanSitter, we’re all about trust, safety, and simplicity. We offer reliable solutions for all your child care and household...
+- [Care.com vs. Sittercity vs. UrbanSitter: A Comprehensive Guide](https://blog.urbansitter.com/care-com-vs-sittercity-vs-urbansitter/): Finding the right caregiver for your family is no small feat. You want a service that’s not only reliable but...
+- [5 Essential Benefits and Policies for Working Parents](https://blog.urbansitter.com/5-essential-benefits-for-working-parents/): Discover the 5 essential policies and benefits to best support working parents. Elevate your employee support with actionable insights from...
+- [Pet Sitter Rates Calculator](https://blog.urbansitter.com/pet-sitter-rates-calculator/): Looking for an accurate pet sitter rates calculator for overnight stays or hourly care? Whether you’re a devoted pet parent...
+- [Top 5 Reasons Why Going Back to School Can Cause Kids Real Pain](https://blog.urbansitter.com/top-5-reasons-why-going-back-to-school-can-cause-kids-real-pain/): By Dawn Van Osdell Getting even the most resilient kids into the routine of a new school year can be...
+- [How Much to Pay a Dog Sitter](https://blog.urbansitter.com/how-much-to-pay-a-dog-sitter/): Are you planning a vacation or have a busy schedule that requires you to be away from home for an...
+- [Father's Day is Nearing: 7 Great Gift Ideas](https://blog.urbansitter.com/fathers-day-is-looming-7-great-gift-ideas/): Father’s Day is fast approaching. Don’t panic. Below is a helpful list of great Father’s Day gift ideas. We’re sure...
+- [Live In Nannies: Everything You Need to Know](https://blog.urbansitter.com/live-in-nannies-everything-you-need-to-know/): Live-in nannies are a unique form of childcare you may not know about. We’ve broken down everything you need to...
+- [20 Funny Jokes for Kids](https://blog.urbansitter.com/20-jokes-for-kids/): When you are interviewing for babysitting jobs in your area, parents understandably want to see how well you interact with...
+- [5 Tips for Saving Money on Infant Care Near Me](https://blog.urbansitter.com/5-tips-for-saving-money-on-infant-care-near-me/): As a parent, finding affordable and reliable infant care near you is crucial. Infant care can be one of the...
+- [Companion Care for Seniors: Your Essential Guide](https://blog.urbansitter.com/companion-care-essential-guide/): For many seniors, companion care can be an excellent option to receive the help they need while maintaining their independence....
+- [7 Simple Kid's Crafts for Mother’s Day](https://blog.urbansitter.com/dads-and-sitters-guide-to-simple-kids-crafts-for-mothers-day/): Why not surprise a mom by helping her kids create a heartfelt, homemade gift to show their love this Mother’s...
+- [What Are the Best Caregiving Jobs Near Me?](https://blog.urbansitter.com/what-are-the-best-caregiving-jobs-near-me/): Finding caregiving jobs can be challenging, but with the right approach, you can land the perfect position in no time....
+- [How much does an Au Pair cost?](https://blog.urbansitter.com/how-much-does-an-au-pair-cost/): As a parent juggling work, family, and other responsibilities, finding reliable and affordable child care is essential. Fortunately, there’s a...
+- [Simple St. Patrick's Day Crafts for Kids](https://blog.urbansitter.com/simple-st-patricks-day-crafts-for-kids/): As luck would have it, there are oodles of St. Patty’s Day crafts to keep your kids happily entertained. We’ve...
+- [In Home Child Care vs. Center Based Child Care Benefits: The Pros & Cons](https://blog.urbansitter.com/in-home-child-care-vs-center-based-child-care-benefits/): Understand the pros and cons of in home child care vs. center based child care when choosing a child care...
+- [2023 Babysitting Rates & Childcare Costs Study](https://blog.urbansitter.com/2023-babysitting-rates-childcare-costs-study/): Interested in the 2023 babysitter rates? Nationally, the average babysitting rates were $22. 68/hr for one child and $25. 37/hr...
+- [5 Simple New Year’s Resolutions You, Too, Can Tackle](https://blog.urbansitter.com/5-simple-new-years-resolutions-you-too-can-tackle/): We could all benefit from a little betterment this new year, but it’s easy for good intentions to get lost...
+- [Tips for Feeding Your Family Well in the New Year](https://blog.urbansitter.com/tips-for-feeding-your-family-well-in-the-new-year/): If you’re like millions of others around the world, the start of the New Year marks a new or renewed...
+- [7 Reasons for HR Leaders to Include Caregiving and Child Care Benefits in 2024](https://blog.urbansitter.com/7-reasons-for-hr-leaders-to-include-caregiving-and-child-care-benefits/): Several factors may impact employee caregiving benefits. We'll discuss 7 reasons for HR leaders to include caregiving and child care...
+- [2022 Holiday Tipping Guide for Families](https://blog.urbansitter.com/2022-holiday-tipping-guide-for-families/): Every year, UrbanSitter surveys families across the U. S. for the latest holiday tipping trends including how much of a...
+- [Why Do Remote Employees Need Child Care Benefits?](https://blog.urbansitter.com/why-do-remote-employees-need-child-care-benefits/): Remote employees require the same family care assistance as on-site workers. UrbanSitter solves the challenge of remote working and childcare.
+- [Babysitter Gift Ideas, Nanny Bonus & More: UrbanSitter’s Guide to Holiday Gifting](https://blog.urbansitter.com/babysitter-gifts-nanny-bonus-more-urbansitters-guide-to-holiday-gifting/): Putting together your holiday gift list? Chances are babysitter gifts, nanny gifts and nanny bonus are high up on the...
+- [5 Hints to Securing a Babysitter This Holiday](https://blog.urbansitter.com/5-hints-to-securing-a-babysitter-this-holiday/): You cut your own tree this year and the stockings are already hung by the chimney with care — what’s...
+- [Time Saving Tips for Your Favorite Holiday Traditions](https://blog.urbansitter.com/time-saving-tips-for-your-favorite-holiday-traditions/): We recently surveyed parents and most rank “decorating the tree” as their number one holiday tradition. While others rate visiting...
+- [Employer Caregiving Benefits: What Are Child Care Stipends?](https://blog.urbansitter.com/employee-caregiving-benefits-what-are-child-care-stipends/): What are child care stipends? UrbanSitter has the answer. Follow along as we discuss the importance of care subsidies in...
+- [Is Backup Child Care Safe? What You Should Know](https://blog.urbansitter.com/is-backup-child-care-safe-what-you-should-know/): Backup child care: trust and safety. Read our latest blog to learn more about UrbanSitter’s trusted backup care benefit.
+- [The Push for Flexible Child Care: How to Get Started](https://blog.urbansitter.com/the-push-for-flexible-child-care-how-to-get-started/): With several options available, launching flexible child care benefits at your organization isn’t as difficult as it may appear.
+- [What is Employer Sponsored Child Care and Why is it Necessary?](https://blog.urbansitter.com/what-is-employer-sponsored-child-care/): The child care revolution is here. Read our latest blog to learn more about the importance of employer sponsored child...
+- [10 Preschool Activities to Engage Your Little Ones](https://blog.urbansitter.com/preschool-activities/): Are you a parent looking for engaging and educational activities to do with your preschool-aged children? Look no further! We’ve...
+- [Nanny Interview Questions: A Guide for Parents](https://blog.urbansitter.com/nanny-interview-questions/): Finding the right nanny involves evaluating their skills, experience, values, and parenting philosophy through a comprehensive interview. We’ll walk you...
+- [Family Caregiver Pay Rates](https://blog.urbansitter.com/family-caregiver-pay-rates/): Curious about the pay rates for family caregivers? Whether you’re an in-home caregiver searching for fair compensation or someone seeking...
+- [What to Know About Drool Rash](https://blog.urbansitter.com/what-to-know-about-drool-rash/): All babies drool, but saliva on skin can cause a drooling rash near the mouth. From symptoms to treatment, here’s...
+- [What to Include in a Child Care Benefit](https://blog.urbansitter.com/what-to-include-in-a-child-care-benefit/): Working parents rank child care benefits as the #1 employee benefit, outranking flexible schedules, 401(k) matching, and extended paid leave.
+- [Tips for Packing a Cooler for the Family Road Trip](https://blog.urbansitter.com/packing-family-cooler/): Whether your family’s headed to the beach, on a road trip or doing a bit of camping this summer, you...
+- [Back to School: The Nanny Conundrum](https://blog.urbansitter.com/back-to-school-the-nanny-conundrum/): Contributed by guest author Whitney Tang, Executive Editor of Nanny Magazine It’s September, which means hordes of children have headed...
+- [10 Fabulous Father’s Day Gifts - Round Up](https://blog.urbansitter.com/10-fabulous-fathers-day-gifts/): Make his day with one of these great gift ideas for Father’s Day. Follow UrbanSitter on Pinterest for more Fathers...
+- [Father’s Day Gift Ideas from Kids](https://blog.urbansitter.com/fathers-day-gifts-for-kids-to-make/): Just like every year, Father’s Day is coming up in June! Get ahead of the curve and start the kids...
+- [Child Care Benefits Have a Big Impact on Working Parent Loyalty](https://blog.urbansitter.com/child-care-benefits-have-a-big-impact-on-working-parent-loyalty/): There is a high risk of resignation amongst working parents. Reduce churn and increase working parent loyalty by adding a...
+- [Fantastic Father's Day Photo Ideas](https://blog.urbansitter.com/fantastic-photo-ideas-fathers-day/): Scrambling to find the perfect gift to celebrate the Dads in your life this Father’s Day? You can scour the...
+- [Throw a Memorial Day BBQ Bash!](https://blog.urbansitter.com/throw-a-memorial-day-bbq-bash/): No matter where you live, there’s no way your family can spend Memorial Day inside of a restaurant! If you...
+- [Have Baby, Will Travel](https://blog.urbansitter.com/have-baby-will-travel/): Whether you’re taking a road trip or facing a long flight together, the thought of traveling with an infant can...
+- [5 Strategies for Choosing the Perfect Mother's Day Gift](https://blog.urbansitter.com/5-strategies-for-choosing-the-perfect-mothers-day-gift/): Choosing the right Mother’s Day gift for the mother of your children or your own mother doesn’t have to be...
+- [Working Parent Burnout: Top Stressors & Solutions](https://blog.urbansitter.com/working-parent-burnout-top-stressors-solutions/): Our original research on working parents highlights their current stressors and preferred employer benefits and policies to increase productivity and...
+- [Tips for Traveling with a Toddler](https://blog.urbansitter.com/tips-traveling-toddler/): Once your baby reaches the toddler stage, typically around the age of 1-3 years old, traveling becomes a whole new...
+- [Child Care Benefits Study 2022: Working Parent Challenges](https://blog.urbansitter.com/child-care-benefits-study-2022/): In this child care benefits study conducted by UrbanSitter, 71% of working parents say it’s difficult to find child care...
+- [2022 Babysitting Rates & Childcare Costs Study](https://blog.urbansitter.com/2022-babysitting-rates-childcare-costs-study/): Wondering what the average 2022 babysitter rates were? The national average was $20. 57/hr for 1 child and $23. 25/hr for 2 children.  Check...
+- [2021 Holiday Tipping Guide: Babysitter Tip, Pet Sitter Tip, Housekeeper Tip](https://blog.urbansitter.com/2021-holiday-tipping-guide-babysitter-pet-sitter-housekeeper/): A holiday babysitter tip can be stressful to figure out as well as holiday tipping etiquette for other service providers....
+- [2021 New Year's Eve Babysitting Rates & Tips](https://blog.urbansitter.com/2021-new-years-eve-babysitting-rates-tips/): Countdown to the New Year! Certainly, after the last couple of years, parents are ready to celebrate the new year...
+- [Hacks to Reduce Employee Holiday Stress](https://blog.urbansitter.com/hacks-to-reduce-employee-holiday-stress/): Are you looking for ways to relieve employee holiday stress? Here are 5 practical tips and hacks for your organization.
+- [Employer-Sponsored Child Care Stipends By the Numbers](https://blog.urbansitter.com/employer-sponsored-child-care-stipends-by-the-numbers/): One of the most frequent questions is “What are other companies offering? ” So here is a high-level overview of...
+- [Your Guide to College Nannies and Sitters](https://blog.urbansitter.com/college-nannies-and-sitters/): Curious if college nannies and sitters are the solution to your endless list of child care needs: holiday breaks, after-school...
+- [5 Tips to Boost Open Enrollment Communication](https://blog.urbansitter.com/5-tips-to-boost-open-enrollment-communication/): Open enrollment is fast approaching, and you’re hoping it will go off without a hitch. Formulate a strong communications strategy...
+- [5 Fast Facts for HR Thought Leaders](https://blog.urbansitter.com/5-fast-facts-for-hr-thought-leaders/): Get in the know with these quick HR industry facts for Q4 2021. Also, help make the transition back into...
+- [Back To School Transitions Tips for Parents During COVID-19](https://blog.urbansitter.com/back-to-school-transitions-tips-for-parents/): Contributed by our friends at Brightline When you became a parent, you probably didn’t envision 18 months hunkered down at...
+- [4 Wonderful Family-Friendly Vacation Spots in the U.S.](https://blog.urbansitter.com/4-wonderful-family-friendly-vacation-spots-in-the-u-s/): When choosing the best vacation spot for your family, you’ll want to consider everything from your budget to the activities...
+- [Babysitter Job Description: Sitter Responsibilities and Chores](https://blog.urbansitter.com/chores-for-your-sitter/): Take a poll of the parents you know, and you’ll realize that babysitter job descriptions vary greatly (child care responsibilities,...
+- [How to help parents return to office after COVID](https://blog.urbansitter.com/how-to-help-parents-return-to-office-after-covid/): UrbanSitter shares five essential strategies that employers can use to help parents return to the office after COVID ends.
+- [5 Ways for Employers to Support Working Parents, Now and Post-pandemic](https://blog.urbansitter.com/5-ways-for-employers-to-support-working-parents-now-and-post-pandemic/): Helpful tips for evolving company benefits and policies to better support working parents and curb burnout and attrition due to...
+- [Introducing COVID-19 Vaccine Badges](https://blog.urbansitter.com/introducing-covid-19-vaccine-badges/): Now, parents and sitters can add a COVID-19 vaccine badge to their UrbanSitter profile for simplified hiring.
+- [One Medical Case Study: Reliable Backup Child Care for Frontline Workers](https://blog.urbansitter.com/one-medical-case-study-reliable-backup-child-care-for-frontline-workers/): UrbanSitter's Corporate Benefit Program provides reliable backup child care to One Medical's doctors, nurses, and employees.
+- [Now Offering Pet Sitting, Senior Care and Household Services](https://blog.urbansitter.com/pet-sitting-senior-care-and-household-services/): Overwhelmed with responsibilities at home? Now, you can rely on UrbanSitter for more than just child care—introducing pet sitting, senior...
+- [What Is An Au Pair? Pros, Cons & How To Find A Great One](https://blog.urbansitter.com/what-is-an-au-pair/): What is an au pair? An au pair is a student between the ages of 18-26 who comes to the...
+- [2021 Babysitting Rates & Childcare Costs Study](https://blog.urbansitter.com/2021-babysitting-rates-childcare-costs-study/): Wondering what average babysitting rates are in 2021? Every year, UrbanSitter calculates average rates across the nation from the tens...
+- [Ideas for Babysitter Activities with a School-Aged Child](https://blog.urbansitter.com/ideas-for-babysitter-activities-with-a-school-aged-child/): Hiring a babysitter for a school-age child is often met with some anxiety on both sides unless there are activities...
+- [Nanny vs Daycare - Pros and Cons](https://blog.urbansitter.com/pros-and-cons-of-nannies-vs-daycares/): A big question you ask when you are preparing for the arrival of your first child or making a change...
+- [Parenting Issues In the Age of COVID](https://blog.urbansitter.com/parenting-issues-in-the-age-of-covid/): UrbanSitter surveyed parents to find out how they’re managing parenting issues during COVID, their holiday plans, and predictions for 2021.
+- [5 Tips for Working from Home With Kids](https://blog.urbansitter.com/working-from-home-with-kids/): Being a working parent is really hard. Working from home with kids is — you guessed it —extremely hard. In fact, 87% of...
+- [5 Steps to Find a Good Babysitter](https://blog.urbansitter.com/5-steps-to-find-a-good-babysitter/): There comes a point in every parent’s life when they have to find a good babysitter but you don’t just...
+- [How to find a sitter for your pandemic pod](https://blog.urbansitter.com/how-to-find-a-pod-sitter/): With many schools going online-only or adopting staggered schedules with distance learning days, some families are banding together to form...
+- [Balancing Child Care & Work In The Age Of COVID - Infographic](https://blog.urbansitter.com/balancing-child-care-work-covid-infographic/): We have faced numerous challenges in the age of COVID-19, and child care is the latest. Check out our infographic...
+- [Tips for hiring a babysitter during the pandemic](https://blog.urbansitter.com/tips-for-hiring-a-babysitter-during-the-pandemic/): Considering hiring a babysitter or nanny during the coronavirus pandemic, but not sure how to do so safely? Here we...
+- [Meet super talented virtual babysitters](https://blog.urbansitter.com/super-talented-virtual-babysitters/): Virtual babysitting opens up a world of exciting possibilities for kids to take yoga lessons, drawing classes, and even get homeschool help—all...
+- [Introducing pet sitting!](https://blog.urbansitter.com/introducing-pet-sitting/): Exciting news! UrbanSitter now offers pet sitting for dogs, cats and your other lovable animals (birds, hamsters, even snakes! )....
+- [Child care options as parents return to work](https://blog.urbansitter.com/childcare-options-as-parents-return-to-work/): If you're a working parent returning to the office, there are still plenty of flexible child care options to fit...
+- [Keeping Families and Caregivers Healthy](https://blog.urbansitter.com/keeping-families-and-caregivers-healthy/): Updated 3/25/20 Family and sitter health is a top priority for the UrbanSitter community. With concerns over Coronavirus increasing coupled...
+- [What is a virtual babysitter? Does it actually work?](https://blog.urbansitter.com/what-is-a-virtual-babysitter/): Wondering if a virtual babysitter is right for you? As families continue to social distance, we know we’ll see less...
+- [A look into Trust & Safety at UrbanSitter](https://blog.urbansitter.com/a-look-into-trust-safety-at-urbansitter/): Working parents want to know their caregiving service is safe, and that is the peace of mind we provide at...
+- [What companies are doing to support employees and their families during the COVID-19 crisis](https://blog.urbansitter.com/companies-support-employees-covid-19/): COVID-19 hasn't been easy for anyone, but there are plenty of great options to support working families during this time.
+- [How UrbanSitter can support your organization](https://blog.urbansitter.com/how-urbansitter-can-support-your-organization/): If your company needs a helping hand with caregiving benefits, read our latest blog to learn how UrbanSitter can support...
+- [COVID-19's impact on babysitters and caregivers](https://blog.urbansitter.com/covid-19-impact-babysitters-caregivers/): Wondering how babysitters and nannies are being impacted by shelter-in-place and social distancing restrictions during the COVID-19 pandemic? In April...
+- [2020 Babysitting Rates & Childcare Costs Study](https://blog.urbansitter.com/2020-babysitting-rates-childcare-costs-study/): Wondering how much to pay your babysitter in 2020? According to UrbanSitter and their 9th annual child care study of...
+- [An Interview with CEO and Founder of Emi](https://blog.urbansitter.com/an-interview-with-ceo-and-founder-of-emi/): Aya Takeuchi is the CEO and Founder of Emi, a technology company on a mission to help people maintain happy...
+- [UrbanSitter CEO Featured on Emi](https://blog.urbansitter.com/urbansitter-ceo-featured-on-emi/): #EmiTogether: Lynn Perkins, CEO of Urbansitter on carving out quality time with her partner Our interviewee today: As our first...
+- [10 Babysitting Tips to Make You the Best Sitter Ever](https://blog.urbansitter.com/10-babysitting-tips-to-make-you-the-best-sitter-ever/): The best babysitters in your area have regular clients, earn a great hourly rate and take pride in what they...
+- [New Year's Eve Babysitting Rates](https://blog.urbansitter.com/2019-holiday-tipping-new-years-eve-babysitting-rates/)
+- [How to Find the Best Babysitter for You and Your Kids](https://blog.urbansitter.com/how-to-find-the-best-babysitter-for-you-and-your-kids/): Leaving your children in the care of a stranger is understandably nerve-racking. In addition to being concerned about your children’s...
+- [How Much Does Babysitting Cost in 2019](https://blog.urbansitter.com/how-much-does-babysitting-cost-in-2019/): As you prepare to hire a babysitter, the important question of pricing may be looming in the back of your...
+- [The Anxiety of Hiring a Nanny: Tips for the Screening Process](https://blog.urbansitter.com/the-anxiety-of-hiring-a-nanny-tips-for-the-screening-process/): Hiring a nanny can be a frustrating and stressful process. After all, the caregiver who you select will play a...
+- [How To Book a Babysitter on the App Store](https://blog.urbansitter.com/how-to-book-a-babysitter-on-the-app-store/): Finding a trustworthy, dependable and caring babysitter can be a true challenge. After all, your friends and neighbors may also...
+- [Exciting changes on the way for UrbanSitter](https://blog.urbansitter.com/exciting-changes-on-the-way-for-urbansitter/): At UrbanSitter, our mission has always been to provide the safest, most trusted place for parents and sitters to connect....
+- [How to Have Difficult Conversations with your Babysitter](https://blog.urbansitter.com/how-to-have-difficult-conversations-with-your-babysitter/): There are few things more important than ensuring that your children are cared for by a compassionate, devoted babysitter when...
+- [Fun Activities for Kids and Babysitters: Ideas & Tips](https://blog.urbansitter.com/fun-activities-for-kids-and-babysitters-ideas-tips/): Even the best babysitters in your area may be at a loss for finding fun activities to do with your...
+- [Choosing and Instructing a Babysitter: Tips For Parents](https://blog.urbansitter.com/choosing-and-instructing-a-babysitter-tips-for-parents/): Whether you are trying to find a new babysitter or you are in a situation where your previous babysitter is...
+- [How To Make Early Allergen Introduction Easy for Parents & Sitters](https://blog.urbansitter.com/how-to-make-early-allergen-introduction-easy-for-parents-sitters/): Special guest post from the allergen experts at Ready, Set, Food! Did you know that every baby is at risk...
+- [10 Creative Ideas for Entertaining a Toddler (in the dead of winter!)](https://blog.urbansitter.com/10-creative-ideas-for-entertaining-a-toddler-in-the-dead-of-winter/): With temperatures reaching inhumane lows across the country, you or your sitter are likely trapped in the house with the...
+- [5 Simple New Year's Resolutions for Busy Parents](https://blog.urbansitter.com/5-simple-new-years-resolutions-for-busy-parents/): Now is your chance to freshen up those good intentions and commit to making positive changes for yourself and your...
+- [5 Ways to Elevate Date Night: Dallas Edition](https://blog.urbansitter.com/5-ways-to-elevate-date-night-dallas-edition/): Looking for a reason to book a babysitter this weekend? Running out of date night ideas or getting bored of...
+- [7 Reasons to Book a Babysitter This Summer](https://blog.urbansitter.com/7-reasons-to-book-a-babysitter-this-summer/): Why is summer a great time to book a babysitter? Read on to find out: 1. School’s Out For Summer!...
+- [How to Prevent Summer Brain Drain? Let Kids Play!](https://blog.urbansitter.com/how-to-prevent-summer-brain-drain-let-kids-play/): The practice of giving kids a break from school during the summer started in the early 1900s. Doctors thought kids...
+- [How to inject Family Fun into a Summer of Work & Camp](https://blog.urbansitter.com/how-to-inject-family-fun-into-a-summer-of-work-camp/): Summertime, which we’d so love to think of as carefree fun-time, can too often be an extended period of regret...
+- [3 Misconceptions About Birthday Parties, Busted!](https://blog.urbansitter.com/3-misconceptions-about-birthday-parties-busted/): There’s a lot of contradictory and downright erroneous parenting info floating around out there. We’re not afraid to tackle it...
+- [Meet Stacy and Bailey Katz, Westwood, Los Angeles](https://blog.urbansitter.com/meet-stacy-and-bailey-katz-westwood-los-angeles/): They say it takes a village to raise a child. When Stacy Katz became a mom in 2007, she created...
+- [10 Healthy On-the-Go Summer Snacks You Kids Will Gobble Up](https://blog.urbansitter.com/10-healthy-on-the-go-summer-snacks-you-kids-will-gobble-up/): The end of the school year doesn’t necessarily mean the end of rushing around. And on-the-go summertime families need quick,...
+- [5 Unforgettable & Affordable Family Vacations You Can Take This Summer](https://blog.urbansitter.com/5-unforgettable-affordable-family-vacations-can-take-summer/): Planning the perfect summer family vacation can seem like a daunting—and expensive—endeavor. That’s why we’ve put together this list of...
+- [Announcing our new partnership with Maven, family healthcare on-demand](https://blog.urbansitter.com/?p=9200): At UrbanSitter, we celebrate parents who take care of their kids and themselves. That’s why we’re excited to announce our...
+- [Top 10 Last Minute Halloween Costumes For Kids](https://blog.urbansitter.com/top-10-last-minute-halloween-costumes-for-kids/): Did Halloween sneak up on you? Are you now realizing that it is less than a week away and your...
+- [2017 Babysitting Rates: How much should you pay your babysitter?](https://blog.urbansitter.com/2017-childcare-survey/): We surveyed over 20,000 families from all across the country to get the scoop on what parents are willing to...
+- [Got 1 Minute? 3 Art Games to Boost your Kid's Strategic Thinking, Problem Solving and Visual Recall](https://blog.urbansitter.com/got-1-minute-3-art-games-to-boost-your-kids-strategic-thinking-problem-solving-and-visual-recall/): By Ruthie Briggs-Greenberg It’s Monday. You have to get your kids to school, and you’re only on your first cup...
+- [Start the School Year Right With an Eye Exam](https://blog.urbansitter.com/start-the-school-year-right-with-an-eye-exam/): By Dr. Gabriel Taub The American Optometric Association (AOA) estimates that up to 80 percent of learning occurs through a...
+- [Child, Please: Memoir of a Daughter](https://blog.urbansitter.com/child-please-memoir-of-a-daughter/): By Ylonda Gault Caviness I, for one, wanted mama’s approval. And it was clearly a prize not easily won. Mama...
+- [Meet Belinda Garza, Matt Hartwig & Graciela, Petworth, Washington, DC](https://blog.urbansitter.com/meet-belinda-garza-matt-hartwig-graciela-petworth-washington-dc/): By Christina Bruce The last “first” time that Belinda Garza and Matt Hartwig met, they were at an engagement party,...
+- [Downtime for Dad?](https://blog.urbansitter.com/downtime/): By Julia Cameron Today, as a father with two sons ages six and eight, Todd laments no longer having time...
+- [Colette Linton-Meyer's Cobble Hill Ballet is the Happiest Ballet School in Brooklyn](https://blog.urbansitter.com/colette-linton-meyers-cobble-hill-ballet-is-the-happiest-ballet-school-in-brooklyn/): by Lela Nargi There are some obvious differences between the rural Midlands of England, where Colette Linton-Meyer grew up, and...
+- [Meet the Music-Loving Solares Family, Bucktown, Chicago](https://blog.urbansitter.com/meet-the-music-loving-solares-family-bucktown-chicago/): By Lela Nargi Jessica Solares and her husband, Luis, don’t just teach music in Chicago’s creative epicenter; they live music,...
+- [Are You Afraid? A Message to Daughters, From a Daughter](https://blog.urbansitter.com/are-you-afraid/): By Eliza Reynolds Are you afraid? I know that I am sometimes. There are moments when I have been so...
+- [Stephanie Morales & The Mother Nurture Center Offer a Respite Along the Parenting Path](https://blog.urbansitter.com/stephanie-morales-the-mother-nurture-center-offer-a-respite-along-the-parenting-path/): By Dawn Van Osdell Stephanie Morales can peek out her living room window and get a good look at the...
+- [Meet Andrew Alford, Jeffrey Norberg, & Kate, Wicker Park, Chicago](https://blog.urbansitter.com/meet-andrew-alford-jeffrey-norberg-kate-wicker-park-chicago/): by Lela Nargi When hotel designer Andrew Alford got an offer to pack up shop in hometown San Francisco and...
+- [Corinne Cannon of the DC Diaper Bank is Making a Difference from the Botton Up](https://blog.urbansitter.com/corinne-cannon-of-the-dc-diaper-bank-is-making-a-difference-from-the-botton-up/): By Dawn Van Osdell Corinne Cannon, an expert on the effects of care on infant brain development, is more skilled...
+- [Max Ventilla of AltSchool is Taking Tech--and More--to the Classroom](https://blog.urbansitter.com/max-ventilla-of-altschool-is-taking-techand-moreto-the-classroom/): by Lela Nargi What makes a career tech guy chomp at the bit to open his own elementary school? The...
+- [Meet the Silickis of Tenleytown, Washington, DC](https://blog.urbansitter.com/meet-the-silickis-of-tenleytown-washington-dc/): By Dawn Van Osdell On a recent brisk, snowy day in Tenleytown, Pleasance Silicki was watching out her window as...
+- [Amy Cahill of More Than Milk is Giving Back to Chicago--A Few Hundred Moms & Kids at a Time](https://blog.urbansitter.com/amy-cahill-more-than-milk-chicago/): By Lela Nargi Amy Cahill remembers the afternoon last December when she was shopping with sons Max, age four, and...
+- [Meet Amy Rodriguez, Adam Shilling, & Ryan, Orange County, California](https://blog.urbansitter.com/meet-amy-rodriguez-adam-shilling/): By Lela Nargi With the Women’s World Cup of soccer kicking off in Canada this coming June, two-time Olympic gold...
+- [Kristin Groos Richmond of Revolution Foods is Recruiting Kids for a Healthy Eating Revolution](https://blog.urbansitter.com/kristin-groos-richmond-of-san-franciscos-revolution-foods-is-recruiting-kids-for-a-healthy-eating-revolution/): By Dawn Van Osdell On her early morning drive to her Oakland, CA, office Kristin Groos Richmond is already thinking...
+- [DIY Parents: How to Organize the Craft Supplies](https://blog.urbansitter.com/diy-parents-how-to-organize-craft-supplies/): There’s a distinct downside to having art- and craft-loving kids. Namely: all that art- and craft-making stuff. Not to mention,...
+- [Citrus Recipes Kids Will Flip For](https://blog.urbansitter.com/citrus-recipes-kids-will-flip-for/): Fruit makes a perfect snack for kids, no matter the season. And all kids seem to love the tender, juicy...
+- [Profiles of Childhood: Kia Gomez, Doula & Babysitter](https://blog.urbansitter.com/profiles-of-childhood-kia-gomez-doula-babysitter/): Our childhoods shape us and prepare us, not only for our own lives, but for the joys and values we’ll...
+- [Go Climb a Tree--It's Good for your Brain!](https://blog.urbansitter.com/go-climb-a-treeits-good-for-your-brain/): By Lela Nargi “Go climb a tree! ” Sound like something you’d say to get your kids out of the...
+- [A Night Off With Kim & Jeff Bosse of Birch Road Cellar, Lincoln Park, Chicago](https://blog.urbansitter.com/a-night-off-with-kim-jeff-bosse-of-birch-road-cellar-lincoln-park-chicago/): By Lela Nargi Just over a year ago, Kim Bosse, a social media consultant, and her friend Sharon Provins, hit...
+- [Last Minute Family Day Trips For the Dog Days of Summer](https://blog.urbansitter.com/last-minute-family-day-trips-for-the-dog-days-of-summer/): By Ilene Miller My two boys, age 10 and 13, love to spend summer “chillaxing” and getting away from the...
+- [Ice Cream Jubilee's Victoria Lai on Retooling the Five-Year Plan and the Importance of Pink Desserts](https://blog.urbansitter.com/ice-cream-jubilees-victoria-lai-on-retooling-the-five-year-plan-and-the-importance-of-pink-desserts/): By Christina Bruce Five years ago, Victoria Lai accepted what she thought was her dream job. She left a law...
+- [DIY Families: 5 Home Projects You Can Do with the Kids](https://blog.urbansitter.com/5-family-friendly-home-projects-you-can-do-with-the-kids/): When you’ve got a lot of projects to take are of around the house, your first instinct might be to...
+- [3 Misconceptions About Twins, Busted!](https://blog.urbansitter.com/3-misconceptions-about-twins-busted/): By Dawn Van Osdell There’s a lot of contradictory and downright erroneous parenting info floating around out there. We’re not...
+- [Lynn Johnson is Empowering Girls Through Go Girl! Theater Camps](https://blog.urbansitter.com/lynn-johnson-is-empowering-girls-through-go-girl-theater-camps/): By Dawn Van Osdell This summer across the Bay Area, Lynn Johnson will be spreading a compassion revolution. You won’t...
+- [Crafty Kids: How to Make Beaded Key Fobs](https://blog.urbansitter.com/crafty-kids-how-to-make-beaded-key-fobs/): The title of this craft begs the questions: what exactly is a fob, and why on earth would any kid...
+- [DIY Parents: Getting Ready for the Big Move...Before You Move](https://blog.urbansitter.com/diy-parents-getting-ready-for-the-big-movebefore-you-move/): By Smith Banfield Moving into a new apartment can be overwhelmingly stressful—especially when you’ve add kids to the already chaotic...
+- [Crafty Kids: How to Make a Beaded Woven Plant Hanger](https://blog.urbansitter.com/crafty-kids-how-to-make-a-beaded-woven-plant-hanger/): It’s spring, which means it’s a great time to bring some nature inside for you and the kids to nurture...
+- [Crafty Kids: How to Make an Up-cycled Birdfeeder](https://blog.urbansitter.com/crafty-kids-make-upcycled-birdfeeder/): The weather’s warm and the birds are fitting all through the neighborhood! Turn your window or fire escape into a...
+- [Crafty Kids: How to Make Maps of Your Neighborhood--and Your Imagination](https://blog.urbansitter.com/crafty-kids-how-to-make-map-of-your-neighborhoodand-your-imagination/): Children love maps. The graphic imagery of even the simplest charts can give them lots to feast their eyes upon,...
+- [For ConstructionKids' Deb Winsor, Confidence Comes with the Bang of a Hammer](https://blog.urbansitter.com/entrepreneur-deb-windsor-construction-kids/): By Lela Nargi The 214-year-old Brooklyn Navy Yard is a three-acre industrial park that occupies a small cove just across...
+- [How to Help Kids Deal With Rejection](https://blog.urbansitter.com/how-to-help-kids-deal-with-rejection/): By Denise Daniels If your child has ever been left out on the playground, left un-picked for a sports team,...
+- [News You Can Use: Are Music Lessons Good for Kids' Brains?](https://blog.urbansitter.com/news-you-can-use-are-music-lessons-good-for-kids-brains/): By Lela Nargi Likely you remember a scenario like this: a young you, looking forward to dinner and TV after...
+- [Why Creativity Matters for Kids](https://blog.urbansitter.com/why-creativity-matters-kids/): By Clark Burbidge The importance of creativity in our lives has been supported by study after study, but in our...
+- [Eat, Play, Sleep](https://blog.urbansitter.com/eat-play-sleep/): By Susan Maushart In a recent Australian study, four in ten mothers describe dinner as an “unpleasant experience,” with the...
+
+---
+
+#
+# Detailed Content
+
+
+## Pages
+
+- Published: 2026-06-15
+- Modified: 2026-06-15
+- URL: https://blog.urbansitter.com/memphis-offer/
+---
+
+- Published: 2026-05-07
+- Modified: 2026-05-28
+- URL: https://blog.urbansitter.com/after-school-care/
+---
+
+- Published: 2026-03-10
+- Modified: 2026-03-16
+- URL: https://blog.urbansitter.com/tutoring-services/
+---
+
+- Published: 2025-12-10
+- Modified: 2025-12-10
+- URL: https://blog.urbansitter.com/daycares/
+---
+
+- Published: 2025-06-26
+- Modified: 2025-06-27
+- URL: https://blog.urbansitter.com/
+---
+
+- Published: 2025-06-20
+- Modified: 2025-06-23
+- URL: https://blog.urbansitter.com/babysitting-rate-calculator/
+---
+
+- Published: 2025-06-20
+- Modified: 2026-03-13
+- URL: https://blog.urbansitter.com/babysitter-pay-calculator/
+---
+
+- Published: 2025-04-01
+- Modified: 2025-04-01
+- URL: https://blog.urbansitter.com/child-care-services/
+---
+
+- Published: 2025-03-25
+- Modified: 2025-09-10
+- URL: https://blog.urbansitter.com/household-services/
+---
+
+- Published: 2025-03-24
+- Modified: 2025-03-24
+- URL: https://blog.urbansitter.com/infant-care-services/
+---
+
+- Published: 2025-02-28
+- Modified: 2025-03-04
+- URL: https://blog.urbansitter.com/senior-care-services/
+---
+
+- Published: 2024-12-13
+- Modified: 2025-03-04
+- URL: https://blog.urbansitter.com/pet-sitting-services/
+---
+
+- Published: 2024-10-10
+- Modified: 2026-06-29
+- URL: https://blog.urbansitter.com/privacy-policy/
+---
+
+- Published: 2024-10-08
+- Modified: 2026-06-26
+- URL: https://blog.urbansitter.com/terms-of-service/
+---
+
+- Published: 2024-10-05
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/when-you-need-last-minute-childcare/
+---
+
+- Published: 2024-06-26
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/in-home-child-care-rates-per-hour/
+---
+
+- Published: 2024-03-13
+- Modified: 2024-05-24
+- URL: https://blog.urbansitter.com/how-to-become-a-babysitter/
+---
+
+- Published: 2024-01-17
+- Modified: 2024-05-24
+- URL: https://blog.urbansitter.com/the-best-babysitting-tips/
+---
+
+- Published: 2023-11-07
+- Modified: 2024-06-10
+- URL: https://blog.urbansitter.com/choosing-between-a-nanny-daycare-or-au-pair/
+---
+
+- Published: 2023-10-05
+- Modified: 2023-10-05
+- URL: https://blog.urbansitter.com/urbansitter-reviews/
+---
+
+- Published: 2023-08-21
+- Modified: 2024-05-10
+- URL: https://blog.urbansitter.com/pay-rates/
+---
+
+- Published: 2023-07-17
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/finding-the-best-pet-sitter-jobs/
+---
+
+- Published: 2023-07-17
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/find-house-managers-near-me/
+---
+
+- Published: 2023-07-11
+- Modified: 2023-07-11
+- URL: https://blog.urbansitter.com/how-to-find-housekeeping-jobs/
+---
+
+- Published: 2023-06-30
+- Modified: 2023-10-30
+- URL: https://blog.urbansitter.com/how-to-find-dog-sitting-jobs-near-me/
+---
+
+- Published: 2023-06-29
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/finding-the-right-home-care-jobs-near-me/
+---
+
+- Published: 2023-06-23
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/childcare-jobs-near-me/
+---
+
+- Published: 2023-06-15
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/caregiver-jobs-near-me/
+---
+
+- Published: 2023-05-26
+- Modified: 2023-06-01
+- URL: https://blog.urbansitter.com/child-care-near-me/
+---
+
+- Published: 2023-05-23
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/home-care-near-me/
+---
+
+- Published: 2023-05-22
+- Modified: 2024-06-17
+- URL: https://blog.urbansitter.com/tutoring-near-me/
+---
+
+- Published: 2023-05-18
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/pet-sitters-near-me/
+---
+
+- Published: 2023-05-17
+- Modified: 2023-05-31
+- URL: https://blog.urbansitter.com/starting-your-urbansitter-profile-tips-for-caregivers/
+---
+
+- Published: 2023-03-28
+- Modified: 2023-03-28
+- URL: https://blog.urbansitter.com/press-release-outschool-and-urbansitter-partner/
+---
+
+- Published: 2022-02-28
+- Modified: 2022-02-28
+- URL: https://blog.urbansitter.com/scout-faqs/
+---
+
+- Published: 2021-11-04
+- Modified: 2025-05-09
+- URL: https://blog.urbansitter.com/employer-resources/
+---
+
+- Published: 2021-08-05
+- Modified: 2021-08-05
+- URL: https://blog.urbansitter.com/elderly-care-jobs/
+---
+
+- Published: 2021-05-10
+- Modified: 2023-05-15
+- URL: https://blog.urbansitter.com/pet-sitting-jobs/
+---
+
+- Published: 2021-02-04
+- Modified: 2023-01-31
+- URL: https://blog.urbansitter.com/tutoring-jobs/
+---
+
+- Published: 2019-09-24
+- Modified: 2023-07-21
+- URL: https://blog.urbansitter.com/the-anxiety-of-hiring-a-nanny-tips-for-the-screening-process/
+---
+
+- Published: 2018-12-18
+- Modified: 2021-12-07
+- URL: https://blog.urbansitter.com/2018-holiday-tipping-new-years-eve-babysitting-rates/
+---
+
+- Published: 2018-01-23
+- Modified: 2018-01-23
+- URL: https://blog.urbansitter.com/valentines-day-babysitting-rates/
+---
+
+- Published: 2017-10-06
+- Modified: 2017-10-06
+- URL: https://blog.urbansitter.com/press-release-urbansitter-secures-17-million-in-series-c-funding-led-by-avp/
+---
+
+- Published: 2017-06-20
+- Modified: 2022-05-11
+- URL: https://blog.urbansitter.com/when-you-need-back-up-child-care/
+---
+
+- Published: 2016-02-16
+- Modified: 2016-03-10
+- URL: https://blog.urbansitter.com/2016-childcare-rate-survey-babysitter-nanny-pay-vacation-sitters-2/
+---
+
+- Published: 2016-02-11
+- Modified: 2022-01-27
+- URL: https://blog.urbansitter.com/2016-childcare-rate-survey/
+---
+
+- Published: 2016-02-11
+- Modified: 2016-02-11
+- URL: https://blog.urbansitter.com/2016-childcare-rate-survey-babysitter-nanny-pay-valentines-day-vacation-sitters/
+---
+
+- Published: 2015-08-18
+- Modified: 2015-08-28
+- URL: https://blog.urbansitter.com/2015-back-to-school-stats-infographic-spending-habits-classroom-etiquette-screen-time/
+---
+
+- Published: 2015-04-08
+- Modified: 2015-05-05
+- URL: https://blog.urbansitter.com/4th-annual-national-childcare-rate-survey-babysitting-rates-nanny-rates/
+---
+
+- Published: 2015-02-10
+- Modified: 2022-05-09
+- URL: https://blog.urbansitter.com/transitioning-baby-to-nanny/
+---
+
+- Published: 2014-08-01
+- Modified: 2024-12-10
+- URL: https://blog.urbansitter.com/child-care-resources-for-parents/
+---
+
+- Published: 2014-06-18
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/babysitter-report-form-printable/
+---
+
+- Published: 2014-04-30
+- Modified: 2023-08-01
+- URL: https://blog.urbansitter.com/complete-list-of-babysitting-interview-questions/
+---
+
+- Published: 2014-04-30
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/preparing-kids-for-a-new-caregiver/
+---
+
+- Published: 2014-04-03
+- Modified: 2016-03-10
+- URL: https://blog.urbansitter.com/3rd-annual-national-childcare-rate-survey-babysitting-rates-nanny-rates/
+---
+
+- Published: 2014-04-02
+- Modified: 2022-06-29
+- URL: https://blog.urbansitter.com/conducting-reference-checks/
+---
+
+- Published: 2014-01-31
+- Modified: 2022-03-17
+- URL: https://blog.urbansitter.com/which-babysitter-is-right-for-my-family/
+---
+
+- Published: 2014-01-31
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/how-to-evaluate-and-monitor-your-babysitter-or-nanny/
+---
+
+- Published: 2014-01-31
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/vetting-a-caregiver/
+---
+
+- Published: 2013-11-21
+- Modified: 2013-12-13
+- URL: https://blog.urbansitter.com/second-annual-holiday-gifting-survey-babysitter-gifts-nanny-bonuses/
+---
+
+- Published: 2013-10-25
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/factors-to-consider-when-looking-for-nanny-jobs/
+---
+
+- Published: 2013-10-25
+- Modified: 2024-12-10
+- URL: https://blog.urbansitter.com/child-care-resources-for-parents/parents-guide-to-taxes/
+---
+
+- Published: 2013-10-25
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/professional-development-resources-for-childcare-workers/
+---
+
+- Published: 2013-09-13
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/preparing-for-your-first-babysitter/
+---
+
+- Published: 2013-09-13
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/how-to-find-sick-day-childcare/
+---
+
+- Published: 2013-07-23
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/how-to-respond-when-a-child-misbehaves/
+---
+
+- Published: 2013-07-23
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/making-the-most-of-maternity-leave/
+---
+
+- Published: 2013-07-23
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/when-your-babysitter-is-responsible-for-driving-your-kids/
+---
+
+- Published: 2013-07-23
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/babysitting-children-with-special-needs/
+---
+
+- Published: 2013-06-23
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/preparing-your-babysitter-for-an-emergency/
+---
+
+- Published: 2013-05-17
+- Modified: 2022-03-17
+- URL: https://blog.urbansitter.com/budgeting-for-a-babysitter-or-nanny-explained/
+---
+
+- Published: 2013-05-17
+- Modified: 2022-07-28
+- URL: https://blog.urbansitter.com/tips-for-babysitters-advanced-questions-about-urbansitter/
+---
+
+- Published: 2013-05-07
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/babysitter-activities-and-daycare-games/
+---
+
+- Published: 2013-05-07
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/babysitting-children-with-food-allergies-and-intolerances/
+---
+
+- Published: 2013-05-07
+- Modified: 2021-02-08
+- URL: https://blog.urbansitter.com/bringing-babysitter-nanny-into-family/
+---
+
+- Published: 2013-04-25
+- Modified: 2021-02-10
+- URL: https://blog.urbansitter.com/babysitting-guide/
+---
+
+- Published: 2012-12-06
+- Modified: 2021-12-08
+- URL: https://blog.urbansitter.com/2nd-annual-national-childcare-rate-survey-nanny-gift-ideas/
+---
+
+- Published: 2012-08-01
+- Modified: 2013-04-24
+- URL: https://blog.urbansitter.com/infographic-babysitting-behavior/
+---
+
+- Published: 2012-06-04
+- Modified: 2022-03-17
+- URL: https://blog.urbansitter.com/babysitting-by-the-numbers-infographic-by-urbansitter-com/
+---
+
+
+---
+
+
+## Posts
+
+- Published: 2026-05-15
+- Modified: 2026-05-20
+- URL: https://blog.urbansitter.com/summer-crafts-for-kids/
+---
+
+- Published: 2026-05-13
+- Modified: 2026-05-20
+- URL: https://blog.urbansitter.com/5-popular-child-care-options-for-summer/
+---
+
+- Published: 2026-05-12
+- Modified: 2026-05-20
+- URL: https://blog.urbansitter.com/summer-essentials-for-babies/
+---
+
+- Published: 2026-05-11
+- Modified: 2026-05-20
+- URL: https://blog.urbansitter.com/tips-for-lining-up-college-students-for-summer-childcare/
+---
+
+- Published: 2026-05-01
+- Modified: 2026-06-25
+- URL: https://blog.urbansitter.com/5-ways-to-celebrate-preschool-or-kindergarten-graduation/
+---
+
+- Published: 2026-04-20
+- Modified: 2026-05-27
+- URL: https://blog.urbansitter.com/after-school-babysitter-guide-for-parents/
+---
+
+- Published: 2026-04-09
+- Modified: 2026-04-09
+- URL: https://blog.urbansitter.com/get-busy-with-spring-crafts-for-kids/
+---
+
+- Published: 2026-04-08
+- Modified: 2026-04-09
+- URL: https://blog.urbansitter.com/10-fun-family-activities-for-a-spring-break-staycation/
+---
+
+- Published: 2026-04-07
+- Modified: 2026-04-09
+- URL: https://blog.urbansitter.com/7-reasons-to-book-a-babysitter-this-spring/
+---
+
+- Published: 2026-04-06
+- Modified: 2026-04-09
+- URL: https://blog.urbansitter.com/spring-crafts-for-preschoolers/
+---
+
+- Published: 2026-03-05
+- Modified: 2026-03-05
+- URL: https://blog.urbansitter.com/how-much-should-i-charge-for-babysitting/
+---
+
+- Published: 2026-03-05
+- Modified: 2026-05-07
+- URL: https://blog.urbansitter.com/babysitting-rates/
+---
+
+- Published: 2026-02-02
+- Modified: 2026-02-02
+- URL: https://blog.urbansitter.com/how-much-does-a-nanny-cost/
+---
+
+- Published: 2026-01-27
+- Modified: 2026-05-21
+- URL: https://blog.urbansitter.com/what-should-i-look-for-in-a-babysitter/
+---
+
+- Published: 2026-01-21
+- Modified: 2026-05-27
+- URL: https://blog.urbansitter.com/7-tips-for-hiring-an-after-school-nanny/
+---
+
+- Published: 2026-01-20
+- Modified: 2026-05-28
+- URL: https://blog.urbansitter.com/after-school-child-care-cost/
+---
+
+- Published: 2026-01-18
+- Modified: 2026-01-21
+- URL: https://blog.urbansitter.com/valentines-day-crafts-for-kids/
+---
+
+- Published: 2026-01-15
+- Modified: 2026-01-21
+- URL: https://blog.urbansitter.com/5-tips-for-finding-a-babysitter-for-valentines-day/
+---
+
+- Published: 2026-01-06
+- Modified: 2026-01-21
+- URL: https://blog.urbansitter.com/12-ways-to-celebrate-valentines-day-with-your-kids/
+---
+
+- Published: 2025-11-11
+- Modified: 2025-11-11
+- URL: https://blog.urbansitter.com/new-years-eve-babysitting-rates/
+---
+
+- Published: 2025-11-11
+- Modified: 2025-11-25
+- URL: https://blog.urbansitter.com/holiday-tipping-guide/
+---
+
+- Published: 2025-11-06
+- Modified: 2025-11-06
+- URL: https://blog.urbansitter.com/fall-crafts-for-preschoolers/
+---
+
+- Published: 2025-11-05
+- Modified: 2025-11-06
+- URL: https://blog.urbansitter.com/5-reasons-to-make-music-with-your-family-this-holiday-season/
+---
+
+- Published: 2025-11-04
+- Modified: 2025-11-06
+- URL: https://blog.urbansitter.com/4-fun-holiday-projects-that-make-great-gifts-from-kids/
+---
+
+- Published: 2025-10-15
+- Modified: 2025-11-06
+- URL: https://blog.urbansitter.com/how-to-fall-back-without-wrecking-your-kids-sleep-schedule/
+---
+
+- Published: 2025-09-04
+- Modified: 2025-11-06
+- URL: https://blog.urbansitter.com/math-activities-for-preschoolers/
+---
+
+- Published: 2025-08-18
+- Modified: 2025-08-19
+- URL: https://blog.urbansitter.com/5-helpful-tips-to-get-an-after-school-care-sitter-and-rates/
+---
+
+- Published: 2025-08-13
+- Modified: 2025-08-13
+- URL: https://blog.urbansitter.com/7-back-to-school-traditions-to-ease-first-day-jitters/
+---
+
+- Published: 2025-07-22
+- Modified: 2025-07-28
+- URL: https://blog.urbansitter.com/before-and-after-school-child-care/
+---
+
+- Published: 2025-07-01
+- Modified: 2026-05-27
+- URL: https://blog.urbansitter.com/back-to-school-child-care-guide/
+A planning guide for the school year: when to start your child care search, how to compare options, and how to prep pickup, homework, and activities.
+
+---
+
+- Published: 2025-06-26
+- Modified: 2026-05-21
+- URL: https://blog.urbansitter.com/how-much-to-pay-a-house-sitter/
+---
+
+- Published: 2025-05-14
+- Modified: 2025-05-14
+- URL: https://blog.urbansitter.com/introducing-daycares-preschools-on-urbansitter/
+---
+
+- Published: 2025-05-11
+- Modified: 2025-06-27
+- URL: https://blog.urbansitter.com/summer-boredom-busters-5-fun-activities-for-your-sitter-and-child-to-do-together/
+---
+
+- Published: 2025-05-10
+- Modified: 2025-06-27
+- URL: https://blog.urbansitter.com/cool-ideas-for-keeping-preschoolers-busy-on-hot-summer-days-in-progress/
+---
+
+- Published: 2025-04-29
+- Modified: 2025-04-29
+- URL: https://blog.urbansitter.com/what-is-a-nanny-agency/
+---
+
+- Published: 2025-04-29
+- Modified: 2025-04-29
+- URL: https://blog.urbansitter.com/15-questions-to-ask-a-nanny-agency/
+---
+
+- Published: 2025-03-04
+- Modified: 2025-03-05
+- URL: https://blog.urbansitter.com/child-care-ein-number-lookup-a-step-by-step-guide/
+---
+
+- Published: 2025-02-28
+- Modified: 2026-01-21
+- URL: https://blog.urbansitter.com/do-babysitters-have-to-pay-taxes/
+---
+
+- Published: 2025-02-27
+- Modified: 2025-02-27
+- URL: https://blog.urbansitter.com/la-wildfire-support/
+---
+
+- Published: 2025-02-24
+- Modified: 2025-03-07
+- URL: https://blog.urbansitter.com/is-daycare-tax-deductible-saving-on-child-care-costs/
+---
+
+- Published: 2025-01-20
+- Modified: 2026-01-20
+- URL: https://blog.urbansitter.com/2025-babysitting-rates-childcare-costs-study/
+---
+
+- Published: 2025-01-05
+- Modified: 2025-01-23
+- URL: https://blog.urbansitter.com/40-funny-valentines-day-jokes-for-kids/
+---
+
+- Published: 2024-12-28
+- Modified: 2025-01-07
+- URL: https://blog.urbansitter.com/5-fun-winter-crafts-for-kids/
+---
+
+- Published: 2024-12-13
+- Modified: 2025-04-29
+- URL: https://blog.urbansitter.com/cost-of-hiring-through-a-nanny-agency/
+---
+
+- Published: 2024-11-30
+- Modified: 2024-12-10
+- URL: https://blog.urbansitter.com/the-best-christmas-crafts-for-kids-top-5-picks/
+---
+
+- Published: 2024-11-23
+- Modified: 2025-01-07
+- URL: https://blog.urbansitter.com/fun-craft-trio-winter/
+---
+
+- Published: 2024-11-22
+- Modified: 2024-12-10
+- URL: https://blog.urbansitter.com/7-holiday-sleep-tips-for-your-babies-toddlers/
+---
+
+- Published: 2024-10-30
+- Modified: 2024-12-10
+- URL: https://blog.urbansitter.com/ultimate-guide-to-daycares/
+Discover everything parents need to know about finding, hiring, and managing a babysitter with our comprehensive guide.
+
+---
+
+- Published: 2024-10-14
+- Modified: 2024-10-15
+- URL: https://blog.urbansitter.com/5-strategies-prying-away-halloween-candy/
+---
+
+- Published: 2024-10-14
+- Modified: 2024-11-04
+- URL: https://blog.urbansitter.com/daycare-interview-questions-and-tips/
+---
+
+- Published: 2024-10-14
+- Modified: 2024-10-25
+- URL: https://blog.urbansitter.com/halloween-safety-tips/
+---
+
+- Published: 2024-10-13
+- Modified: 2024-10-15
+- URL: https://blog.urbansitter.com/crafty-kids-3d-origami-spider-for-halloween/
+---
+
+- Published: 2024-10-12
+- Modified: 2024-10-18
+- URL: https://blog.urbansitter.com/is-preschool-the-same-as-daycare/
+---
+
+- Published: 2024-10-12
+- Modified: 2024-11-06
+- URL: https://blog.urbansitter.com/what-are-my-daycare-options/
+---
+
+- Published: 2024-10-11
+- Modified: 2024-10-18
+- URL: https://blog.urbansitter.com/nanny-vs-daycare-for-infants/
+---
+
+- Published: 2024-10-11
+- Modified: 2024-11-06
+- URL: https://blog.urbansitter.com/day-care-centers-or-in-home-family-day-care/
+---
+
+- Published: 2024-10-10
+- Modified: 2024-10-25
+- URL: https://blog.urbansitter.com/daycare-ratios-by-state-what-you-need-to-know/
+---
+
+- Published: 2024-10-10
+- Modified: 2024-11-15
+- URL: https://blog.urbansitter.com/15-daycare-essentials-for-your-baby/
+---
+
+- Published: 2024-10-10
+- Modified: 2024-10-25
+- URL: https://blog.urbansitter.com/what-are-the-worst-and-best-ages-to-start-daycare/
+---
+
+- Published: 2024-10-06
+- Modified: 2024-11-15
+- URL: https://blog.urbansitter.com/day-care-or-daycare-what-is-the-correct-spelling/
+---
+
+- Published: 2024-08-30
+- Modified: 2024-09-05
+- URL: https://blog.urbansitter.com/4-fun-ideas-to-celebrate-grandparents-day/
+---
+
+- Published: 2024-08-16
+- Modified: 2024-08-19
+- URL: https://blog.urbansitter.com/acing-back-to-school-night/
+---
+
+- Published: 2024-08-13
+- Modified: 2024-08-19
+- URL: https://blog.urbansitter.com/how-to-write-a-babysitter-reference-letter/
+---
+
+- Published: 2024-08-02
+- Modified: 2024-08-19
+- URL: https://blog.urbansitter.com/choosing-the-right-dog-sitter-key-qualities/
+---
+
+- Published: 2024-08-01
+- Modified: 2024-08-19
+- URL: https://blog.urbansitter.com/should-cell-phones-be-allowed-in-school-the-pros-and-cons/
+---
+
+- Published: 2024-07-24
+- Modified: 2024-07-24
+- URL: https://blog.urbansitter.com/how-to-get-jobs-on-urbansitter/
+---
+
+- Published: 2024-07-01
+- Modified: 2024-08-01
+- URL: https://blog.urbansitter.com/nanny-contract-template-and-guide/
+---
+
+- Published: 2024-07-01
+- Modified: 2024-07-24
+- URL: https://blog.urbansitter.com/15-hilarious-first-day-of-school-memes/
+---
+
+- Published: 2024-07-01
+- Modified: 2024-07-24
+- URL: https://blog.urbansitter.com/ways-to-help-your-child-adjust-to-preschool/
+How can you help when your child is having trouble adjusting to preschool? Here are 6 tips to ease separation anxiety during the transition.
+
+---
+
+- Published: 2024-07-01
+- Modified: 2024-07-31
+- URL: https://blog.urbansitter.com/nanny-vs-babysitter-pros-and-cons/
+---
+
+- Published: 2024-06-30
+- Modified: 2024-07-31
+- URL: https://blog.urbansitter.com/questions-to-ask-a-babysitter-in-an-interview/
+---
+
+- Published: 2024-06-30
+- Modified: 2024-08-01
+- URL: https://blog.urbansitter.com/what-is-a-nanny/
+---
+
+- Published: 2024-06-27
+- Modified: 2024-06-27
+- URL: https://blog.urbansitter.com/the-ultimate-babysitter-guide-for-parents/
+Discover everything parents need to know about finding, hiring, and managing a babysitter with our comprehensive guide.
+
+---
+
+- Published: 2024-06-01
+- Modified: 2024-10-25
+- URL: https://blog.urbansitter.com/the-ultimate-guide-to-dog-sitting-apps/
+---
+
+- Published: 2024-05-10
+- Modified: 2024-05-15
+- URL: https://blog.urbansitter.com/what-are-the-best-babysitting-apps/
+---
+
+- Published: 2024-04-26
+- Modified: 2024-05-16
+- URL: https://blog.urbansitter.com/how-to-write-an-impressive-babysitter-resume/
+---
+
+- Published: 2024-04-26
+- Modified: 2024-05-15
+- URL: https://blog.urbansitter.com/babysitting-classes-near-me/
+---
+
+- Published: 2024-03-04
+- Modified: 2024-03-04
+- URL: https://blog.urbansitter.com/enginehire-and-sitterpro-shaping-the-future-together-with-urbansitter/
+---
+
+- Published: 2024-02-26
+- Modified: 2024-04-30
+- URL: https://blog.urbansitter.com/what-is-the-definition-of-a-sitter/
+---
+
+- Published: 2024-02-22
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/nanny-apps-and-services-you-should-know-about/
+Finding a nanny doesn't have to be overwhelming. This comprehensive guide will walk you through how to find a nanny, from start to finish.
+
+---
+
+- Published: 2024-02-18
+- Modified: 2024-02-23
+- URL: https://blog.urbansitter.com/how-to-choose-best-nanny-cam/
+---
+
+- Published: 2024-02-18
+- Modified: 2024-04-30
+- URL: https://blog.urbansitter.com/7-babysitter-personality-types-according-to-the-movies/
+---
+
+- Published: 2024-02-17
+- Modified: 2024-03-01
+- URL: https://blog.urbansitter.com/where-to-find-a-part-time-nanny-top-5-tips/
+Explore top tips on where to find a part-time nanny, ensuring the best child care solution for busy parents. Discover now!
+
+---
+
+- Published: 2024-02-16
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/live-in-nanny-cost-breakdown/
+---
+
+- Published: 2024-02-15
+- Modified: 2024-02-22
+- URL: https://blog.urbansitter.com/nanny-cam-the-pros-and-cons-of-using-one/
+---
+
+- Published: 2024-02-14
+- Modified: 2024-02-15
+- URL: https://blog.urbansitter.com/how-to-find-a-nanny-guide/
+Finding a nanny doesn't have to be overwhelming. This comprehensive guide will walk you through how to find a nanny, from start to finish.
+
+---
+
+- Published: 2024-02-13
+- Modified: 2024-08-01
+- URL: https://blog.urbansitter.com/ultimate-nanny-guide/
+Explore our guide for essential tips on finding, hiring, and managing a nanny. Learn about different types of nannies, costs, interview strategies, and how to build a successful relationship with your nanny.
+
+---
+
+- Published: 2024-02-10
+- Modified: 2024-05-10
+- URL: https://blog.urbansitter.com/is-a-babysitter-agency-right-for-you/
+---
+
+- Published: 2024-02-10
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/overnight-babysitter-rates-and-tips/
+---
+
+- Published: 2024-02-09
+- Modified: 2026-02-09
+- URL: https://blog.urbansitter.com/babysitting-rates-2024-average-rates-by-us-city/
+---
+
+- Published: 2024-02-02
+- Modified: 2024-06-10
+- URL: https://blog.urbansitter.com/how-to-write-a-nanny-resume/
+---
+
+- Published: 2024-02-01
+- Modified: 2024-02-01
+- URL: https://blog.urbansitter.com/live-in-nanny-jobs-what-you-need-to-know/
+---
+
+- Published: 2024-01-26
+- Modified: 2024-05-16
+- URL: https://blog.urbansitter.com/babysitting-age-requirements-what-you-need-to-know/
+---
+
+- Published: 2024-01-26
+- Modified: 2024-01-26
+- URL: https://blog.urbansitter.com/how-to-become-a-nanny/
+---
+
+- Published: 2023-12-07
+- Modified: 2025-11-11
+- URL: https://blog.urbansitter.com/2023-new-years-eve-babysitting-rates/
+---
+
+- Published: 2023-11-30
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/how-much-you-should-pay-a-babysitter-in-nyc/
+---
+
+- Published: 2023-11-27
+- Modified: 2023-11-27
+- URL: https://blog.urbansitter.com/babysitting-gift-cards-holiday-gifts/
+---
+
+- Published: 2023-11-22
+- Modified: 2024-06-03
+- URL: https://blog.urbansitter.com/how-to-book-a-babysitter-using-an-app/
+---
+
+- Published: 2023-11-22
+- Modified: 2024-05-24
+- URL: https://blog.urbansitter.com/babysitting-games-to-play-on-the-job/
+---
+
+- Published: 2023-09-15
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-use-ai-to-write-an-effective-babysitter-bio/
+---
+
+- Published: 2023-09-14
+- Modified: 2024-06-03
+- URL: https://blog.urbansitter.com/50-hilarious-kids-jokes-about-school/
+---
+
+- Published: 2023-09-12
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/is-urbansitter-reliable/
+---
+
+- Published: 2023-09-12
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/care-com-vs-urbansitter/
+---
+
+- Published: 2023-09-11
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/does-urbansitter-cost-money/
+---
+
+- Published: 2023-09-10
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-much-should-you-pay-a-cat-sitter-for-a-week/
+---
+
+- Published: 2023-09-07
+- Modified: 2023-09-22
+- URL: https://blog.urbansitter.com/comprehensive-guide-to-receiving-blankets/
+---
+
+- Published: 2023-09-06
+- Modified: 2024-05-17
+- URL: https://blog.urbansitter.com/how-to-find-dog-walking-jobs/
+---
+
+- Published: 2023-09-05
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/why-you-should-trust-urbansitter/
+---
+
+- Published: 2023-09-03
+- Modified: 2026-03-09
+- URL: https://blog.urbansitter.com/care-com-vs-sittercity-vs-urbansitter/
+---
+
+- Published: 2023-09-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-essential-benefits-for-working-parents/
+Discover the 5 essential policies and benefits to best support working parents. Elevate your employee support with actionable insights from UrbanSitter.
+
+---
+
+- Published: 2023-08-17
+- Modified: 2024-06-10
+- URL: https://blog.urbansitter.com/pet-sitter-rates-calculator/
+---
+
+- Published: 2023-07-17
+- Modified: 2024-04-22
+- URL: https://blog.urbansitter.com/top-5-reasons-why-going-back-to-school-can-cause-kids-real-pain/
+---
+
+- Published: 2023-06-03
+- Modified: 2024-01-12
+- URL: https://blog.urbansitter.com/how-much-to-pay-a-dog-sitter/
+---
+
+- Published: 2023-06-01
+- Modified: 2023-06-13
+- URL: https://blog.urbansitter.com/fathers-day-is-looming-7-great-gift-ideas/
+---
+
+- Published: 2023-05-21
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/live-in-nannies-everything-you-need-to-know/
+---
+
+- Published: 2023-05-15
+- Modified: 2023-12-08
+- URL: https://blog.urbansitter.com/20-jokes-for-kids/
+---
+
+- Published: 2023-05-12
+- Modified: 2023-12-26
+- URL: https://blog.urbansitter.com/5-tips-for-saving-money-on-infant-care-near-me/
+---
+
+- Published: 2023-05-10
+- Modified: 2023-05-10
+- URL: https://blog.urbansitter.com/companion-care-essential-guide/
+For many seniors, companion care can be an excellent option to receive the help they need while maintaining their independence. In this article, we’ll explore the benefits of companion care services, when to consider companion care, and how to find the best provider for your loved one.
+
+---
+
+- Published: 2023-05-08
+- Modified: 2023-12-27
+- URL: https://blog.urbansitter.com/dads-and-sitters-guide-to-simple-kids-crafts-for-mothers-day/
+---
+
+- Published: 2023-04-28
+- Modified: 2023-12-26
+- URL: https://blog.urbansitter.com/what-are-the-best-caregiving-jobs-near-me/
+---
+
+- Published: 2023-04-03
+- Modified: 2024-01-11
+- URL: https://blog.urbansitter.com/how-much-does-an-au-pair-cost/
+---
+
+- Published: 2023-02-10
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/simple-st-patricks-day-crafts-for-kids/
+---
+
+- Published: 2023-01-31
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/in-home-child-care-vs-center-based-child-care-benefits/
+Understand the pros and cons of in home child care vs. center based child care when choosing a child care benefit for your employees.
+
+---
+
+- Published: 2023-01-11
+- Modified: 2024-01-11
+- URL: https://blog.urbansitter.com/2023-babysitting-rates-childcare-costs-study/
+---
+
+- Published: 2023-01-03
+- Modified: 2023-01-11
+- URL: https://blog.urbansitter.com/5-simple-new-years-resolutions-you-too-can-tackle/
+---
+
+- Published: 2023-01-02
+- Modified: 2023-01-11
+- URL: https://blog.urbansitter.com/tips-for-feeding-your-family-well-in-the-new-year/
+---
+
+- Published: 2022-12-16
+- Modified: 2023-12-13
+- URL: https://blog.urbansitter.com/7-reasons-for-hr-leaders-to-include-caregiving-and-child-care-benefits/
+Several factors may impact employee caregiving benefits. We'll discuss 7 reasons for HR leaders to include caregiving and child care plans.
+
+---
+
+- Published: 2022-12-13
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2022-holiday-tipping-guide-for-families/
+---
+
+- Published: 2022-12-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/why-do-remote-employees-need-child-care-benefits/
+Remote employees require the same family care assistance as on-site workers. UrbanSitter solves the challenge of remote working and childcare.
+
+---
+
+- Published: 2022-12-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/babysitter-gifts-nanny-bonus-more-urbansitters-guide-to-holiday-gifting/
+---
+
+- Published: 2022-11-30
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-hints-to-securing-a-babysitter-this-holiday/
+---
+
+- Published: 2022-11-28
+- Modified: 2022-12-01
+- URL: https://blog.urbansitter.com/time-saving-tips-for-your-favorite-holiday-traditions/
+---
+
+- Published: 2022-11-16
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/employee-caregiving-benefits-what-are-child-care-stipends/
+What are child care stipends? UrbanSitter has the answer. Follow along as we discuss the importance of care subsidies in our latest blog.
+
+---
+
+- Published: 2022-10-25
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/is-backup-child-care-safe-what-you-should-know/
+Backup child care: trust and safety. Read our latest blog to learn more about UrbanSitter’s trusted backup care benefit.
+
+---
+
+- Published: 2022-10-05
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/the-push-for-flexible-child-care-how-to-get-started/
+With several options available, launching flexible child care benefits at your organization isn’t as difficult as it may appear.
+
+---
+
+- Published: 2022-09-19
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/what-is-employer-sponsored-child-care/
+The child care revolution is here. Read our latest blog to learn more about the importance of employer sponsored child care in the workplace.
+
+---
+
+- Published: 2022-09-08
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/preschool-activities/
+---
+
+- Published: 2022-09-07
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/nanny-interview-questions/
+---
+
+- Published: 2022-08-16
+- Modified: 2024-01-11
+- URL: https://blog.urbansitter.com/family-caregiver-pay-rates/
+---
+
+- Published: 2022-07-21
+- Modified: 2023-07-21
+- URL: https://blog.urbansitter.com/what-to-know-about-drool-rash/
+---
+
+- Published: 2022-06-15
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/what-to-include-in-a-child-care-benefit/
+Working parents rank child care benefits as the #1 employee benefit, outranking flexible schedules, 401(k) matching, and extended paid leave.
+
+---
+
+- Published: 2022-06-07
+- Modified: 2022-05-17
+- URL: https://blog.urbansitter.com/packing-family-cooler/
+---
+
+- Published: 2022-06-06
+- Modified: 2026-05-28
+- URL: https://blog.urbansitter.com/back-to-school-the-nanny-conundrum/
+---
+
+- Published: 2022-06-02
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/10-fabulous-fathers-day-gifts/
+---
+
+- Published: 2022-05-30
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/fathers-day-gifts-for-kids-to-make/
+---
+
+- Published: 2022-05-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/child-care-benefits-have-a-big-impact-on-working-parent-loyalty/
+There is a high risk of resignation amongst working parents. Reduce churn and increase working parent loyalty by adding a child care benefit.
+
+---
+
+- Published: 2022-05-16
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/fantastic-photo-ideas-fathers-day/
+---
+
+- Published: 2022-05-04
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/throw-a-memorial-day-bbq-bash/
+---
+
+- Published: 2022-05-02
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/have-baby-will-travel/
+---
+
+- Published: 2022-04-24
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/5-strategies-for-choosing-the-perfect-mothers-day-gift/
+---
+
+- Published: 2022-04-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/working-parent-burnout-top-stressors-solutions/
+Our original research on working parents highlights their current stressors and preferred employer benefits and policies to increase productivity and manageability at work.
+
+---
+
+- Published: 2022-04-02
+- Modified: 2022-05-04
+- URL: https://blog.urbansitter.com/tips-traveling-toddler/
+---
+
+- Published: 2022-02-10
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/child-care-benefits-study-2022/
+In this child care benefits study conducted by UrbanSitter, 71% of working parents say it’s difficult to find child care right now.
+
+---
+
+- Published: 2022-01-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2022-babysitting-rates-childcare-costs-study/
+---
+
+- Published: 2021-12-16
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2021-holiday-tipping-guide-babysitter-pet-sitter-housekeeper/
+---
+
+- Published: 2021-11-28
+- Modified: 2023-12-07
+- URL: https://blog.urbansitter.com/2021-new-years-eve-babysitting-rates-tips/
+---
+
+- Published: 2021-11-07
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/hacks-to-reduce-employee-holiday-stress/
+Are you looking for ways to relieve employee holiday stress? Here are 5 practical tips and hacks for your organization.
+
+---
+
+- Published: 2021-11-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/employer-sponsored-child-care-stipends-by-the-numbers/
+One of the most frequent questions is “What are other companies offering?” So here is a high-level overview of employer-sponsored child care stipend trends.
+
+---
+
+- Published: 2021-10-21
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/college-nannies-and-sitters/
+---
+
+- Published: 2021-10-11
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-tips-to-boost-open-enrollment-communication/
+Open enrollment is fast approaching, and you’re hoping it will go off without a hitch. Formulate a strong communications strategy now with these pro tips for HR professionals.
+
+---
+
+- Published: 2021-10-05
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-fast-facts-for-hr-thought-leaders/
+Get in the know with these quick HR industry facts for Q4 2021. Also, help make the transition back into the workplace more smooth for your clients by discussing backup child care with them to help them combat the "talent tsunami."
+
+---
+
+- Published: 2021-09-30
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/back-to-school-transitions-tips-for-parents/
+---
+
+- Published: 2021-07-19
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/4-wonderful-family-friendly-vacation-spots-in-the-u-s/
+---
+
+- Published: 2021-07-17
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/chores-for-your-sitter/
+---
+
+- Published: 2021-07-14
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-help-parents-return-to-office-after-covid/
+UrbanSitter shares five essential strategies that employers can use to help parents return to the office after COVID ends.
+
+---
+
+- Published: 2021-05-04
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-ways-for-employers-to-support-working-parents-now-and-post-pandemic/
+Helpful tips for evolving company benefits and policies to better support working parents and curb burnout and attrition due to the pandemic.
+
+---
+
+- Published: 2021-04-06
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/introducing-covid-19-vaccine-badges/
+Now, parents and sitters can add a COVID-19 vaccine badge to their UrbanSitter profile for simplified hiring.
+
+---
+
+- Published: 2021-03-04
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/one-medical-case-study-reliable-backup-child-care-for-frontline-workers/
+UrbanSitter's Corporate Benefit Program provides reliable backup child care to One Medical's doctors, nurses, and employees.
+
+---
+
+- Published: 2021-03-03
+- Modified: 2022-10-03
+- URL: https://blog.urbansitter.com/pet-sitting-senior-care-and-household-services/
+---
+
+- Published: 2021-02-05
+- Modified: 2023-12-29
+- URL: https://blog.urbansitter.com/what-is-an-au-pair/
+---
+
+- Published: 2021-02-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2021-babysitting-rates-childcare-costs-study/
+---
+
+- Published: 2021-02-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/ideas-for-babysitter-activities-with-a-school-aged-child/
+---
+
+- Published: 2021-01-28
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/pros-and-cons-of-nannies-vs-daycares/
+---
+
+- Published: 2020-12-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/parenting-issues-in-the-age-of-covid/
+UrbanSitter surveyed parents to find out how they’re managing parenting issues during COVID, their holiday plans, and predictions for 2021.
+
+---
+
+- Published: 2020-12-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/working-from-home-with-kids/
+---
+
+- Published: 2020-11-30
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-steps-to-find-a-good-babysitter/
+---
+
+- Published: 2020-08-20
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-find-a-pod-sitter/
+---
+
+- Published: 2020-08-06
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/balancing-child-care-work-covid-infographic/
+We have faced numerous challenges in the age of COVID-19, and child care is the latest. Check out our infographic to learn more.
+
+---
+
+- Published: 2020-05-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/tips-for-hiring-a-babysitter-during-the-pandemic/
+---
+
+- Published: 2020-04-22
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/super-talented-virtual-babysitters/
+---
+
+- Published: 2020-04-01
+- Modified: 2021-06-02
+- URL: https://blog.urbansitter.com/introducing-pet-sitting/
+---
+
+- Published: 2020-03-26
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/childcare-options-as-parents-return-to-work/
+If you're a working parent returning to the office, there are still plenty of flexible child care options to fit your schedule.
+
+---
+
+- Published: 2020-03-25
+- Modified: 2021-02-01
+- URL: https://blog.urbansitter.com/keeping-families-and-caregivers-healthy/
+---
+
+- Published: 2020-03-20
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/what-is-a-virtual-babysitter/
+---
+
+- Published: 2020-03-19
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/a-look-into-trust-safety-at-urbansitter/
+Working parents want to know their caregiving service is safe, and that is the peace of mind we provide at UrbanSitter.
+
+---
+
+- Published: 2020-03-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/companies-support-employees-covid-19/
+COVID-19 hasn't been easy for anyone, but there are plenty of great options to support working families during this time.
+
+---
+
+- Published: 2020-03-17
+- Modified: 2024-02-01
+- URL: https://blog.urbansitter.com/how-urbansitter-can-support-your-organization/
+If your company needs a helping hand with caregiving benefits, read our latest blog to learn how UrbanSitter can support your organization.
+
+---
+
+- Published: 2020-03-17
+- Modified: 2021-02-05
+- URL: https://blog.urbansitter.com/covid-19-impact-babysitters-caregivers/
+---
+
+- Published: 2020-02-13
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2020-babysitting-rates-childcare-costs-study/
+---
+
+- Published: 2020-02-11
+- Modified: 2021-02-05
+- URL: https://blog.urbansitter.com/an-interview-with-ceo-and-founder-of-emi/
+---
+
+- Published: 2020-01-24
+- Modified: 2021-01-30
+- URL: https://blog.urbansitter.com/urbansitter-ceo-featured-on-emi/
+---
+
+- Published: 2019-12-27
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/10-babysitting-tips-to-make-you-the-best-sitter-ever/
+---
+
+- Published: 2019-11-14
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-find-the-best-babysitter-for-you-and-your-kids/
+---
+
+- Published: 2019-11-04
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-much-does-babysitting-cost-in-2019/
+---
+
+- Published: 2019-10-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/the-anxiety-of-hiring-a-nanny-tips-for-the-screening-process/
+---
+
+- Published: 2019-09-05
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-book-a-babysitter-on-the-app-store/
+---
+
+- Published: 2019-09-04
+- Modified: 2021-06-29
+- URL: https://blog.urbansitter.com/exciting-changes-on-the-way-for-urbansitter/
+---
+
+- Published: 2019-08-05
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-have-difficult-conversations-with-your-babysitter/
+---
+
+- Published: 2019-07-26
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/fun-activities-for-kids-and-babysitters-ideas-tips/
+---
+
+- Published: 2019-07-18
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/choosing-and-instructing-a-babysitter-tips-for-parents/
+---
+
+- Published: 2019-03-08
+- Modified: 2021-02-09
+- URL: https://blog.urbansitter.com/how-to-make-early-allergen-introduction-easy-for-parents-sitters/
+---
+
+- Published: 2019-01-24
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/10-creative-ideas-for-entertaining-a-toddler-in-the-dead-of-winter/
+---
+
+- Published: 2019-01-02
+- Modified: 2021-02-04
+- URL: https://blog.urbansitter.com/5-simple-new-years-resolutions-for-busy-parents/
+---
+
+- Published: 2018-09-05
+- Modified: 2021-01-30
+- URL: https://blog.urbansitter.com/5-ways-to-elevate-date-night-dallas-edition/
+---
+
+- Published: 2018-06-12
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/7-reasons-to-book-a-babysitter-this-summer/
+---
+
+- Published: 2018-05-07
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-prevent-summer-brain-drain-let-kids-play/
+---
+
+- Published: 2018-05-06
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-inject-family-fun-into-a-summer-of-work-camp/
+---
+
+- Published: 2018-05-05
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/3-misconceptions-about-birthday-parties-busted/
+---
+
+- Published: 2018-05-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-stacy-and-bailey-katz-westwood-los-angeles/
+---
+
+- Published: 2018-05-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/10-healthy-on-the-go-summer-snacks-you-kids-will-gobble-up/
+---
+
+- Published: 2018-05-02
+- Modified: 2021-02-05
+- URL: https://blog.urbansitter.com/5-unforgettable-affordable-family-vacations-can-take-summer/
+---
+
+- Published: 2018-04-10
+- Modified: 2025-11-24
+- URL: https://blog.urbansitter.com/?p=9200
+---
+
+- Published: 2017-10-23
+- Modified: 2021-01-30
+- URL: https://blog.urbansitter.com/top-10-last-minute-halloween-costumes-for-kids/
+---
+
+- Published: 2017-10-10
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/2017-childcare-survey/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/got-1-minute-3-art-games-to-boost-your-kids-strategic-thinking-problem-solving-and-visual-recall/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/start-the-school-year-right-with-an-eye-exam/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/child-please-memoir-of-a-daughter/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-belinda-garza-matt-hartwig-graciela-petworth-washington-dc/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/downtime/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/colette-linton-meyers-cobble-hill-ballet-is-the-happiest-ballet-school-in-brooklyn/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-the-music-loving-solares-family-bucktown-chicago/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/are-you-afraid/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/stephanie-morales-the-mother-nurture-center-offer-a-respite-along-the-parenting-path/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-andrew-alford-jeffrey-norberg-kate-wicker-park-chicago/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/corinne-cannon-of-the-dc-diaper-bank-is-making-a-difference-from-the-botton-up/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/max-ventilla-of-altschool-is-taking-techand-moreto-the-classroom/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-the-silickis-of-tenleytown-washington-dc/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/amy-cahill-more-than-milk-chicago/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/meet-amy-rodriguez-adam-shilling/
+---
+
+- Published: 2017-08-03
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/kristin-groos-richmond-of-san-franciscos-revolution-foods-is-recruiting-kids-for-a-healthy-eating-revolution/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/diy-parents-how-to-organize-craft-supplies/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/citrus-recipes-kids-will-flip-for/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/profiles-of-childhood-kia-gomez-doula-babysitter/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/go-climb-a-treeits-good-for-your-brain/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/a-night-off-with-kim-jeff-bosse-of-birch-road-cellar-lincoln-park-chicago/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/last-minute-family-day-trips-for-the-dog-days-of-summer/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/ice-cream-jubilees-victoria-lai-on-retooling-the-five-year-plan-and-the-importance-of-pink-desserts/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/5-family-friendly-home-projects-you-can-do-with-the-kids/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/3-misconceptions-about-twins-busted/
+---
+
+- Published: 2017-08-02
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/lynn-johnson-is-empowering-girls-through-go-girl-theater-camps/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/crafty-kids-how-to-make-beaded-key-fobs/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/diy-parents-getting-ready-for-the-big-movebefore-you-move/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/crafty-kids-how-to-make-a-beaded-woven-plant-hanger/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/crafty-kids-make-upcycled-birdfeeder/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/crafty-kids-how-to-make-map-of-your-neighborhoodand-your-imagination/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/entrepreneur-deb-windsor-construction-kids/
+---
+
+- Published: 2017-08-01
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/how-to-help-kids-deal-with-rejection/
+---
+
+- Published: 2017-07-25
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/news-you-can-use-are-music-lessons-good-for-kids-brains/
+---
+
+- Published: 2017-07-25
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/why-creativity-matters-kids/
+---
+
+- Published: 2017-07-25
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/eat-play-sleep/
+---
+
+- Published: 2017-07-25
+- Modified: 2023-11-17
+- URL: https://blog.urbansitter.com/what-kids-really-gain-from-arts-education-one-moms-personal-reflection/
+---
+
+
+---
+
